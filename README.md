@@ -41,12 +41,13 @@ Again, in no particular order:
 
 
 ## Change Log
-###May 2018
+### May 2018
 
-####v0.5—23.May
+#### v0.5—23.May
 * Cover page art
 * Titan ordnance table added
 * Added spacing around `Special' column in weapon tables
+* Created GitHub repo
 
 
 #### v0.4—22.May

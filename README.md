@@ -8,36 +8,36 @@ This mod is based off of the original FPS published in 2014. I will be pulling a
 ## Planned Additions
 The following list is what I want to get done sooner rather than later. In no specific order.
 
-[ ] Pilot jump kit
-[ ] Titan defensive systems
-    [ ] Electric smoke
-    [ ] Particle wall
-    [ ] Vortex shield
-[ ] Pilot and grunt armours
-[ ] Pilot ordnance
-    [ ] Electric smoke grenade
-    [ ] Firestar
-[ ] Data knife
+- [ ] Pilot jump kit
+- [ ] Titan defensive systems
+  -  [ ] Electric smoke
+  -  [ ] Particle wall
+  -  [ ] Vortex shield
+- [ ] Pilot and grunt armours
+- [ ] Pilot ordnance
+  -  [ ] Electric smoke grenade
+  -  [ ] Firestar
+- [ ] Data knife
 [ ] Titan Laser shot
-[] Pilot tactical abilities
-    [ ] Cloak
-    [ ] Stim
-    [ ] Pulse blade
-    [ ] Grapple
-    [ ] Holo pilot
+- [ ] Pilot tactical abilities
+  -  [ ] Cloak
+  -  [ ] Stim
+  -  [ ] Pulse blade
+  -  [ ] Grapple
+  -  [ ] Holo pilot
 
 ## "If I Get to it" List
 Again, in no particular order:
 
-[ ] Vehicles
-    [ ] Paladin tank
-    [ ] Samson assault truck
-    [ ] Crow/Goblin dropship
-    [ ] Hornet fighter
-    [ ] Phantom fighter
-    [ ] IMC bomber
-[ ] Weapon attachments
-[ ] Talents
+- [ ] Vehicles
+  -  [ ] Paladin tank
+  -  [ ] Samson assault truck
+  -  [ ] Crow/Goblin dropship
+  -  [ ] Hornet fighter
+  -  [ ] Phantom fighter
+  -  [ ] IMC bomber
+- [ ] Weapon attachments
+- [ ] Talents
 
 
 ## Change Log

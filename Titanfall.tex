@@ -42,6 +42,22 @@
 \setcounter{page}{1}
 
 
+%%%%%
+%Intro
+%%%%%
+
+\chapter{Welcome to the Militia}
+\label{chap:intro}
+
+Humanity lives in the deepest reaches of explored space in a vast region known as The Frontier. It contains many well-known and inhabited solar systems, but many more worlds remain uncharted. Most people will never travel this far away from normal civilization, but for pioneers, explorers, mercenaries, outlaws, and soldiers---the Frontier offers both adventure and opportunity.
+
+The Interstellar Manufacturing Corporation (IMC) originally funded many expeditions to the Frontier, promising veterans of their military campaigns in the ``Core Systems"---the region of space containing the IMC's inhabited worlds including Earth---free land and other benefits in return for starting up businesses and colonies on the Frontier. Eventually, the IMC withdrew this support, leaving the colonists stranded without outside assistance for several decades.
+
+Over time, life continued on the Frontier largely independent from the Core Systems. However, when the IMC returned several decades later to claim eminent domain over the Frontier's land, people and resources, the people of the Frontier united as the Frontier Militia, utilizing guerrilla and terrorist actions to further their cause.
+
+This is where you come in. You grew up in the Frontier, it is your home. Now the IMC is back and claiming everything you worked your entire life for is theirs. It isn't. You know that, and now they need to learn it. Welcome to the Frontier Militia!
+
+
 
 %%%%%
 % Titans
@@ -479,8 +495,6 @@ Arc Grenade & Ranged (Light) & 5 & 4 & Short & 1 & 0 & 250 & 6 & \Special{Blast 
 Arc Mine & Mechanics & 6 & 4 & Engaged & 3 & 0 & 500 & 7 & \Special{Blast 5, Disorient 2, Limited Ammo 1, Stun Damage, Special}
 Frag Grenade & Ranged (Light) & 8 & 3 & Short & 1 & 0 & 650 & 7 & \Special{Blast 5, Limited Ammo 1}
 Satchel Charge & Mechanics & 12 & 2 & Engaged & 2 & 0 & 2,700 & 6 & \Special{Blast 8, Breach 1, Special}
-
-
 \end{GenesysTable}
 \end{table}
 
@@ -542,7 +556,125 @@ Sidewinder & Gunnery & 18 & 2 & Medium & 6 & 3 & 5,075 & 6 & \Special{Auto-fire,
 \end{GenesysTable}
 \end{table}
 
+\section{Armour}
 
+\subsection{Armoured Carapace}
+Armoured carapace completely covers the wearer from head to toe and with the right attachments can be environmentally sealed. The carapace has a rigid outer shell that deflects or blocks incoming attacks. It is also designed to be extremely customizable, with one more hard point than a comparable size armour would otherwise have.
+
+
+\subsection{Flak Vest}
+Made from lightweight polymers and ballistic fabrics, this armour provides decent protection against small arms fire and shrapnel.
+
+\subsection{Heavy Jacket}
+
+Not a form of combat armour, but a well-made jacket provides limited protection.
+
+
+\begin{table}[h!]
+\centering
+\caption{Armour}
+\footnotesize
+\begin{GenesysTable}{l *{4}{c} r c}
+Type & Defense & Soak & Enc. & HP & Price & Rarity\\
+Armoured Carapace & 1 & +2 & 4 & 3 & 850 & 6\\
+Flak Vest & 0 & +2 & 3 & 2 & 500 & 5\\
+Heavy Jacket & 0 & +1 & 1 & 1 & 50 & 1\\
+\end{GenesysTable}
+\end{table}
+
+\section{Gear}
+
+A Militia Titan pilot needs more than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane---but no less important---items that makes a Militia pilot more than a grunt with a gun.
+
+\subsection{Comm-Bead}
+This communications device fits into a sentient’s ear (or other auditory orifice) and allows them to communicate with friends and allies within 100 kilometers. If the comm-bead can tie into a planetary communications network (the kind that any civilized planet has), then it can communicate with anyone on the same planet.
+
+An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is an \textbf{Average (\DifficultyDie\DifficultyDie) Hacking} check.
+
+\subsection{Cybernetics}
+See \emph{Genesys} Core Rulebook page 177.
+
+
+\subsection{Data Knife}
+The Data Knife is a tool used to hack into enemy Spectres, turrets or other computing devices. It has an on-board AI programmed specifically to hack into enemy computers. It has 2 ranks in the Hacking skill. If left to its own devices it will roll \AbilityDie\AbilityDie\ for hacking checks. If you spend your action hacking, it instead assists you in your attempt (see pages 26--27 of the \emph{Genesys} Core Rulebook).
+
+
+\subsection{First Aid Kit}
+A first aid kit has all the basics you need to tend to minor battlefield injuries.  This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, \Threat\Threat\Threat\ or \Despair\ means your character has used all of the kit’s supplies.
+
+
+\subsection{Jump Kit}
+Jump Kits provide a brief burst of thrust that is used to leap to higher locations. They also have a function that adjusts the deceleration on potentially fatal descents to safe levels, allowing Pilots to fall from great heights without injury.
+
+When armed with a jump kit, upgrade all Athletics checks to climb and jump and ignore difficult terrain as long as you can bypass it via a nearby wall or other outcropping. In addition, reduce the overall distance fallen by one range band.
+
+\subsection{Night Optics}
+These goggles allows the wearer to see in the dark. When wearing night optics, your character
+removes up to \SetbackDie\SetbackDie\ added to their checks due to darkness.
+
+
+\subsection{Pain Killers}
+See page 94 of the \emph{Genesys} Core Rulebook.
+
+
+\subsection{Portable Medkit}
+A well-equipped portable medkit comes with every- thing someone might need to treat all manner of injuries, from bullet wounds to broken legs.
+
+A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic \Advantage\ to the check results.
+
+
+
+\begin{table}[h!]
+\centering
+\caption{Gear}
+\footnotesize
+\begin{GenesysTable}{l c r c}
+Item & Enc & Price & Rarity\\
+Comm-Bead & 0 & 25 & 1\\
+Comm-Bead, encrypted & 0 & 200 & 5\\
+Data Knife & 0 & 500 & 5\\
+First Aid Kit & 1 & 100 & 3\\
+Jump Kit & 2 & 1,000 & 7\\
+Night Optics & 0 & 500 & 5\\
+Painkillers & 0 &25 & 2\\
+Portable Medkit & 2 & 200 & 4\\
+\end{GenesysTable}
+\end{table}
+
+\chapter{Item Attachments}
+Item attachments follow the rules on pages 206--209 of the \emph{Genesys} Core Rulebook. Many of the attachments in that section are available in \emph{Titanfall: Genesys} as well as new attachments described below.
+
+\section{Weapon Attachments}
+
+The following weapon attachments from the \emph{Genesys} Core Rulebook are available:
+
+\begin{itemize}[noitemsep]
+\item Bipod mount (page 207)
+\item Extended barrel (page 207)
+\item Hair trigger (page 207)
+\item Superior weapon customization (page 208)
+\item Telescopic sight (page 208)
+\item Tripod mount (page 208)
+\item Under-barrel weapon attachment (page 208)
+\item Weapon sling (page 209)
+\end{itemize}
+
+
+
+\section{Armour Attachments}
+The following attachments from the \emph{Genesys} Core Rulebook are available:
+
+\begin{itemize}[noitemsep]
+\item Deflective plating (page 209)
+\item Reinforced plating (page 209)
+\item Vacuum sealed (page 209)
+\end{itemize}
+
+
+
+%%%%%
+% Appendix
+%%%%%
 
 \appendix
 
@@ -551,6 +683,15 @@ Sidewinder & Gunnery & 18 & 2 & Medium & 6 & 3 & 5,075 & 6 & \Special{Auto-fire,
 {\small
 
 \section{May 2018}
+
+\subsection{v0.6---25.May}
+\begin{itemize}[noitemsep]
+\item Added armour section
+\item Added gear section
+\item Added attachment chapter
+\item Listed GCRB attachments available
+\item Welcome to the Militia intro chapter added
+\end{itemize}
 
 \subsection{v0.5---23.May}
 \begin{itemize}[noitemsep]

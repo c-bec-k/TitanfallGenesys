@@ -8,24 +8,24 @@ This mod is based off of the original FPS published in 2014. I will be pulling a
 ## Planned Additions
 The following list is what I want to get done sooner rather than later. In no specific order.
 
-- [ ] Pilot jump kit
+- [X] Pilot jump kit
 - [ ] Titan defensive systems
   -  [ ] Electric smoke
   -  [ ] Particle wall
   -  [ ] Vortex shield
-- [ ] Pilot and grunt armours
+- [X] Pilot and grunt armours
 - [ ] Pilot ordnance
   -  [ ] Electric smoke grenade
   -  [ ] Firestar
-- [ ] Data knife
-[ ] Titan Laser shot
+  -  [ ] Pulse blade
+- [X] Data knife
+- [ ] Titan Laser shot
 - [ ] Pilot tactical abilities
   -  [ ] Cloak
   -  [ ] Stim
-  -  [ ] Pulse blade
   -  [ ] Grapple
   -  [ ] Holo pilot
-
+- [ ] Archetypes
 ## "If I Get to it" List
 Again, in no particular order:
 
@@ -37,11 +37,24 @@ Again, in no particular order:
   -  [ ] Phantom fighter
   -  [ ] IMC bomber
 - [ ] Weapon attachments
+  - [X] CRB attachments
+  - [ ] Non-CRB attachments
+- [ ] Armour attachments
+  - [X] CRB attachments
+  - [ ] Non-CRB attachments
 - [ ] Talents
+
 
 
 ## Change Log
 ### May 2018
+
+#### v0.6--25.May
+* Added armour section
+* Added gear section
+* Added attachment chapter
+* Listed GCRB attachments available
+* Welcome to the Militia intro chapter added
 
 #### v0.5.1–24.May
 * Updated `.gitignore`

@@ -49,7 +49,7 @@ Again, in no particular order:
 ## Change Log
 ### May 2018
 
-#### v0.6--25.May
+#### v0.62-5.May
 * Added armour section
 * Added gear section
 * Added attachment chapter

@@ -49,14 +49,14 @@ Again, in no particular order:
 ## Change Log
 ### May 2018
 
-#### v0.62-5.May
+#### v0.62—5.May
 * Added armour section
 * Added gear section
 * Added attachment chapter
 * Listed GCRB attachments available
 * Welcome to the Militia intro chapter added
 
-#### v0.5.1–24.May
+#### v0.5.1—24.May
 * Updated `.gitignore`
 * Changed ul to checkboxes
 * Added version number tags

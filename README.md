@@ -9,17 +9,17 @@ This mod is based off of the original FPS published in 2014. I will be pulling a
 The following list is what I want to get done sooner rather than later. In no specific order.
 
 - [X] Pilot jump kit
-- [ ] Titan defensive systems
-  -  [ ] Electric smoke
-  -  [ ] Particle wall
-  -  [ ] Vortex shield
+- [X] Titan defensive systems
+  -  [X] Electric smoke
+  -  [X] Particle wall
+  -  [X] Vortex shield
 - [X] Pilot and grunt armours
-- [ ] Pilot ordnance
-  -  [ ] Electric smoke grenade
-  -  [ ] Firestar
-  -  [ ] Pulse blade
+- [X] Pilot ordnance
+  -  [X] Electric smoke grenade
+  -  [X] Firestar
+  -  [X] Pulse blade
 - [X] Data knife
-- [ ] Titan Laser shot
+- [X] Titan Laser shot
 - [ ] Pilot tactical abilities
   -  [ ] Cloak
   -  [ ] Stim
@@ -49,7 +49,18 @@ Again, in no particular order:
 ## Change Log
 ### May 2018
 
-#### v0.62—5.May
+#### v0.7—29.May
+* Changed encrypted comm-bead mechanics
+* Added firestar
+* Added pulse blade
+* Added pilot electric smoke
+* Reworked weapon prices
+* Added Titan defense systems
+ 
+
+#### v0.6—25.May
+
+#### v0.6—5.May
 * Added armour section
 * Added gear section
 * Added attachment chapter

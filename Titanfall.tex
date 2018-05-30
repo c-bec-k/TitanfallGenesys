@@ -26,7 +26,7 @@
 
 \thispagestyle{empty}
 %\vspace*{2em}
-{\noindent\centering\Huge\TF titanfall:\\{\huge Genesys}\\[1em]{\Large\sffamily\bfseries A Titanfall Mod for the Genesys RPG\\v0.6}\\}
+{\noindent\centering\Huge\TF titanfall:\\{\huge Genesys}\\[1em]{\Large\sffamily\bfseries A Titanfall Mod for the Genesys RPG\\v0.7}\\}
 \vspace*{\fill}
 
 \clearpage
@@ -243,6 +243,9 @@ Unless otherwise noted, extra reloads for ordnance weapons cost 2,000 credits.
 
 The Cluster Missile pod fires a missile which, on impact, deploys a shower of secondary explosive charges that continue to explode and saturate an area for a considerable time.
 
+\subsection{Laser Shot}
+The laser shot fires a lethal beam that cuts through anything in its way. It's a directed energy weapon that takes the charge rifle and and amps it up to Titan-scale.
+
 \subsection{Multi-Target Missile System}
 \begin{wrapfigure}[3]{r}{.34\linewidth}
 \vspace*{-2em}
@@ -274,9 +277,57 @@ This Titan ordnance pod requires a lock-on before you can fire. When you fire, a
 \begin{GenesysTable}{*{2}{l} *{2}{c} l c r c X[l]}
 Name & Skill & Dam & Crit & Range  & HP & Price & Rarity & Special\\
 Cluster Missile & Gunnery & 4 & 3 & Extreme & 1 & 6,250 & 8 & \Special{Blast 4, Breach 1, Limited Ammo 3}
+Laser Shot & Gunnery & 3 & 2 & Long & 1 & 5,100 & 8 & \Special{Accurate 1, Breach 2, Slow-Firing 1, Vicious 2}
 MTM System & Gunnery & 5 & 3 & Extreme & 1 & 9,000 & 8 & \Special{Accurate 1, Auto-Fire, Breach 1, Guided 3, Limited Ammo 3, Special}
 Rocket Salvo & Gunnery & 3 & 2 & Long & 1 & 7,050 & 8 & \Special{Blast 1, Breach 2, Inaccurate 1, Limited Ammo 2, Special}
 Slave Warhead & Gunnery & 5 & 4 & Long & 1 & 8,250 & 8 & \Special{Blast 1, Breach 1, Guided 2, Limited Ammo 3, Linked 2}
+\end{GenesysTable}
+\end{table}
+
+
+\section{Defensive Systems}
+Titans are not indestructible, regardless of what the IMC wants you to believe. Each Titan is equipped with one of three defensive systems, designed to prolong the lifespan of the Titan.
+
+
+\subsection{Electric Smoke}
+\begin{wrapfigure}[6]{l}{.25\linewidth}
+\vspace*{-2em}
+\includegraphics[width=\linewidth]{ElectricSmoke}
+\end{wrapfigure}
+
+Electric smoke is a reactionary device used to avoid attacks and negate tracking weapons.
+
+Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the \emph{Genesys} Core Rulebook).Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won't (or can't) disembark, they must make a \textbf{Hard (\DifficultyDie\DifficultyDie\DifficultyDie) Resilience check} or suffer 1 wound, plus 1 additional wound per \Failure. If the Resilience check generates \Threat\Threat, they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
+
+If the skill check that triggered the electric smoke generates \Advantage\Advantage, it may be spent to cause you to have only one smoke canister left.
+
+\subsection{Partical Wall}
+\begin{wrapfigure}[6]{r}{.25\linewidth}
+\vspace*{-4em}
+\includegraphics[width=\linewidth]{ParticleWall}
+\end{wrapfigure}
+
+The particle wall creates a concave force field which blocks all projectiles from one side and lets all projectiles through from the other. As an incidental you may deploy the particle wall in front of your Titan. It grants Ranged Defense 4 to all Titans behind the wall. It lasts until the end of your next turn, and it requires two rounds to recharge before it can be used again.
+
+\subsection{Vortex Shield}
+\begin{wrapfigure}[7]{l}{.25\linewidth}
+\vspace*{-2em}
+\includegraphics[width=\linewidth]{VortexShield}
+\end{wrapfigure}
+
+The Vortex Shield allows Titans to stop enemy fire such as rockets and bullets in their tracks and is able to send the projectiles right back to the enemy.
+
+As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates \Threat\Threat\Threat, you may reflect the projectile (if any) back on the target, dealing the weapon's base damage to the attacker. If the check generates \Despair, you instead deal a Critical Injury (or a Critical Hit for vehicles).
+
+\begin{table}[h!]
+\centering
+\caption{Titan Defensive Systems}
+\footnotesize
+\begin{GenesysTable}{*{2}{l} *{2}{c} l c r c X[l]}
+System & Hard Point & Price & Rarity\\
+Electric Smoke & 1 & 2,000 & 8\\
+Particle Wall & 1 & 3,000 & 8\\
+Vortex Shield & 1 & 1,000 & 8
 \end{GenesysTable}
 \end{table}
 
@@ -435,7 +486,7 @@ Name & Skill & Dam & Crit & Range & Enc & HP & Price & Rarity & Special\\
 R101C Carbine & Ranged (Heavy) & 8 & 3 & Long & 4 & 2 & 1,050 & 7 & Auto-fire\\
 Hemlock BF-R & Ranged (Heavy) & 8 & 3 & Long & 4 & 2 & 1,000 & 7 & Accurate 1\\
 G2A4 Battle Rifle & Ranged (Heavy) & 8 & 3 & Long & 4 & 2 & 950 & 6 &  \\ 
-EV-8 Shotgun & Ranged (Heavy) & 8 & 3 & Short & 3 & 2 & 1,250 & 4 & \Special{Blast 6, Knockdown, Special}
+EV-8 Shotgun & Ranged (Heavy) & 8 & 3 & Short & 3 & 2 & 625 & 4 & \Special{Blast 6, Knockdown, Special}
 R-97 SMG & Ranged (Heavy) & 6 & 3 & Medium & 3 & 2 & 750 & 6 & \Special{Auto-fire, Accurate 1}
 C.A.R. SMG & Ranged (Heavy) & 7 & 3 & Medium & 3 & 2 & 550 & 6 & \Special{Accurate 2, Limited Ammo 2}
 Longbow DMR & Ranged (Heavy) & 9 & 3 & Long & 4 & 2 & 1,000 & 5 & \Special{Accurate 1, Limited Ammo 3}
@@ -467,6 +518,14 @@ The Arc Grenade is by infantry of the IMC and Militia. When activated, the Arc G
 
 The Arc Mine is a proximity mine that can stick on any surface. It takes 1 second after sticking to something to arm. Arc Mines won't explode until an enemy Pilot, Titan, Grunt, or Spectre enter the mine's range. An arc mine can negate Defense granted by energy shields by spending \Advantage\Advantage.
 
+\subsection{Electric Smoke Grenade}
+A pilot-portable version of the Titan defense system, this ``grenade" is designed to obscure an area and disperse pilots in an entrenched position. Any non-Titan target who stays within the cloud must make a \textbf{Hard (\DifficultyDie\DifficultyDie\DifficultyDie) Resilience check} at the end of their next turn or suffer 3 strain, plus 1 additional strain per \Failure. If the check generates \Threat\Threat, you may activate the Disorient quality.
+
+The cloud creates two dice worth of concealment and completely blocks the Guided weapon quality on any attack against a target within the cloud or if the weapon must target through the cloud.
+
+\subsection{Firestar}
+The firestar is an incendiary throwing star that creates thermite on impact. It will stick to surfaces and enemies alike.
+
 
 \subsection{Frag Grenade}
 \begin{wrapfigure}[2]{r}{.36\linewidth}
@@ -491,10 +550,12 @@ Satchel Charges stick to any surface and are manually detonated, causing massive
 \footnotesize
 \begin{GenesysTable}{*{2}{l} *{2}{c} l c c r c X[l]}
 Name & Skill & Dam & Crit & Range & Enc & HP & Price & Rarity & Special\\
-Arc Grenade & Ranged (Light) & 5 & 4 & Short & 1 & 0 & 250 & 6 & \Special{Blast 4, Disorient 2, Limited Ammo 1, Stun Damage, Special}
-Arc Mine & Mechanics & 6 & 4 & Engaged & 3 & 0 & 500 & 7 & \Special{Blast 5, Disorient 2, Limited Ammo 1, Stun Damage, Special}
-Frag Grenade & Ranged (Light) & 8 & 3 & Short & 1 & 0 & 650 & 7 & \Special{Blast 5, Limited Ammo 1}
-Satchel Charge & Mechanics & 12 & 2 & Engaged & 2 & 0 & 2,700 & 6 & \Special{Blast 8, Breach 1, Special}
+Arc Grenade & Ranged (Light) & 5 & 4 & Short & 1 & 0 & 55 & 6 & \Special{Blast 4, Disorient 2, Limited Ammo 1, Stun Damage, Special}
+Arc Mine & Mechanics & 6 & 4 & Engaged & 3 & 0 & 70 & 7 & \Special{Blast 5, Disorient 2, Limited Ammo 1, Stun Damage, Special}
+Electric Smoke & Ranged (Light) & 4 & 6 & Short & 1 & 0 & 50 & 7 & \Special{Blast 3, Disorient 2, Limited Ammo 1, Stun Damage, Special}
+Firestar & Ranged (Light) & 8 & 2 & Short & 1 & 0 & 100 & 7 & Burn 1, Limited Ammo 1\\
+Frag Grenade & Ranged (Light) & 8 & 3 & Short & 1 & 0 & 90 & 7 & \Special{Blast 6, Limited Ammo 1}
+Satchel Charge & Mechanics & 12 & 2 & Engaged & 2 & 0 & 280 & 6 & \Special{Blast 8, Breach 1, Limited Ammo 1, Special}
 \end{GenesysTable}
 \end{table}
 
@@ -540,10 +601,6 @@ The Mag Launcher fires magnetic grenades. When fired, the grenades will veer tow
 The Sidewinder is a rapid-fire micro-missile launcher. It is effective against large targets, but lacks precision due to its large spread. The micro-missiles it fires do not yield a large area effect on detonation, due to their shaped-charge design.
 
 
-
-
-
-
 \begin{table}[h!]
 \caption{Anti-Titan Weapons}
 \footnotesize
@@ -567,7 +624,7 @@ Made from lightweight polymers and ballistic fabrics, this armour provides decen
 
 \subsection{Heavy Jacket}
 
-Not a form of combat armour, but a well-made jacket provides limited protection.
+Not a form of combat armour, but a well-made jacket does provide limited protection.
 
 
 \begin{table}[h!]
@@ -589,7 +646,7 @@ A Militia Titan pilot needs more than just a good weapon and heavy armour to def
 \subsection{Comm-Bead}
 This communications device fits into a sentient’s ear (or other auditory orifice) and allows them to communicate with friends and allies within 100 kilometers. If the comm-bead can tie into a planetary communications network (the kind that any civilized planet has), then it can communicate with anyone on the same planet.
 
-An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is an \textbf{Average (\DifficultyDie\DifficultyDie) Hacking} check.
+An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is upgraded twice.
 
 \subsection{Cybernetics}
 See \emph{Genesys} Core Rulebook page 177.
@@ -600,7 +657,7 @@ The Data Knife is a tool used to hack into enemy Spectres, turrets or other comp
 
 
 \subsection{First Aid Kit}
-A first aid kit has all the basics you need to tend to minor battlefield injuries.  This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, \Threat\Threat\Threat\ or \Despair\ means your character has used all of the kit’s supplies.
+A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, \Threat\Threat\Threat\ or \Despair\ means your character has used all of the kit’s supplies.
 
 \subsection{Jump Kit}
 Jump Kits provide a brief burst of thrust that is used to leap to higher locations. They also have a function that adjusts the deceleration on potentially fatal descents to safe levels, allowing Pilots to fall from great heights without injury.
@@ -621,7 +678,12 @@ A well-equipped portable medkit comes with every- thing someone might need to tr
 
 A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic \Advantage\ to the check results.
 
+\subsection{Pulse Blade}
+the pulse blade can be thrown and also provides a brief sonar pulse that can detect enemies even through walls.
 
+As an action, a character may make an \textbf{Average (\DifficultyDie\DifficultyDie) Ranged (Light) check} to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released. Any cloaked target looses the benefit of the cloak until the leave the area of effect.
+
+The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
 
 \begin{table}[h!]
 \centering
@@ -637,6 +699,7 @@ Jump Kit & 2 & 1,000 & 7\\
 Night Optics & 0 & 500 & 5\\
 Painkillers & 0 &25 & 2\\
 Portable Medkit & 2 & 200 & 4\\
+Pulse Blade & 1 & 150 & 5\\
 \end{GenesysTable}
 \end{table}
 
@@ -681,6 +744,18 @@ The following attachments from the \emph{Genesys} Core Rulebook are available:
 {\small
 
 \section{May 2018}
+
+\subsection{v0.7--29.May}
+\begin{itemize}[noitemsep]
+\item Changed encrypted comm-bead mechanics
+\item Added firestar
+\item Added pulse blade
+\item Added pilot electric smoke
+\item Reworked weapon prices
+\item Added Titan defense systems
+\end{itemize}
+
+
 
 \subsection{v0.6---25.May}
 \begin{itemize}[noitemsep]

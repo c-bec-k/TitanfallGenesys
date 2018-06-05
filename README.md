@@ -26,6 +26,10 @@ The following list is what I want to get done sooner rather than later. In no sp
   -  [ ] Grapple
   -  [ ] Holo pilot
 - [ ] Archetypes
+- [ ] Talents
+- [ ] Skills
+
+
 ## "If I Get to it" List
 Again, in no particular order:
 

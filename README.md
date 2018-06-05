@@ -26,6 +26,11 @@ The following list is what I want to get done sooner rather than later. In no sp
   -  [ ] Grapple
   -  [ ] Holo pilot
 - [ ] Archetypes
+  - [ ] Cyborg
+  - [ ] Generalist
+  - [ ] Specialist
+  - [ ] Brute
+  - [ ] Leader
 - [ ] Talents
 - [ ] Skills
 

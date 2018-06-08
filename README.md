@@ -57,6 +57,26 @@ Again, in no particular order:
 
 
 ## Change Log
+
+
+### June 2018
+
+#### v0.7.2–7.June
+* Added Stim and grapple as armour attachments
+* Added cloak as an armour
+* Data knife item changed to dataspike weapon attachment
+* Custom weapon attachments added
+* Custom armour attachments added
+* Heavy jacket's HP removed, price lowered
+* Panacea added to gear section
+
+
+#### v0.7.1–5.June
+* Fixed DMR and kraber limited ammo wonkiness
+* Clarified how Titan weapon ammo works
+* Changed encrypted comm-bead's price
+
+
 ### May 2018
 
 #### v0.7—29.May
@@ -66,9 +86,6 @@ Again, in no particular order:
 * Added pilot electric smoke
 * Reworked weapon prices
 * Added Titan defense systems
- 
-
-#### v0.6—25.May
 
 #### v0.6—5.May
 * Added armour section

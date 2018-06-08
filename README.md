@@ -21,18 +21,19 @@ The following list is what I want to get done sooner rather than later. In no sp
 - [X] Data knife
 - [X] Titan Laser shot
 - [ ] Pilot tactical abilities
-  -  [ ] Cloak
-  -  [ ] Stim
-  -  [ ] Grapple
-  -  [ ] Holo pilot
+  -  [X] Cloak
+  -  [X] Stim
+  -  [X] Grapple
 - [ ] Archetypes
   - [ ] Cyborg
   - [ ] Generalist
   - [ ] Specialist
   - [ ] Brute
   - [ ] Leader
-- [ ] Talents
 - [ ] Skills
+  - [ ] Pilot (Aerospace)
+  - [ ] Pilot (Ground)
+  - [ ] Pilot (Titan)
 
 
 ## "If I Get to it" List
@@ -45,12 +46,12 @@ Again, in no particular order:
   -  [ ] Hornet fighter
   -  [ ] Phantom fighter
   -  [ ] IMC bomber
-- [ ] Weapon attachments
+- [X] Weapon attachments
   - [X] CRB attachments
-  - [ ] Non-CRB attachments
-- [ ] Armour attachments
+  - [X] Non-CRB attachments
+- [X] Armour attachments
   - [X] CRB attachments
-  - [ ] Non-CRB attachments
+  - [X] Non-CRB attachments
 - [ ] Talents
 
 

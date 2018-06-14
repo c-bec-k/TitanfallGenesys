@@ -20,16 +20,16 @@ The following list is what I want to get done sooner rather than later. In no sp
   -  [X] Pulse blade
 - [X] Data knife
 - [X] Titan Laser shot
-- [ ] Pilot tactical abilities
+- [X] Pilot tactical abilities
   -  [X] Cloak
   -  [X] Stim
   -  [X] Grapple
-- [ ] Archetypes
-  - [ ] Cyborg
-  - [ ] Generalist
-  - [ ] Specialist
-  - [ ] Brute
-  - [ ] Leader
+- [X] Archetypes
+  - [X] Cyborg
+  - [X] Generalist
+  - [X] Specialist
+  - [X] Brute
+  - [X] Leader
 - [ ] Skills
   - [ ] Pilot (Aerospace)
   - [ ] Pilot (Ground)
@@ -60,6 +60,9 @@ Again, in no particular order:
 
 
 ### June 2018
+
+#### v0.8–14.June
+* Added archetypes
 
 #### v0.7.2–7.June
 * Added Stim and grapple as armour attachments

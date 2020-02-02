@@ -54,7 +54,6 @@ Two things to note when spending your starting experience:
 * It is suggested on the bottom of page 36 of the Core Rulebook that you spend all but 25–35 experience on characteristics, since this is going to be the last time (outside of the Dedicated talent) you'll be able to modify those numbers
 * As a Titanfall: Genesys GM, if you want your players to be veterans of the Titan War instead of new recruits—or if you want them to be new recruits with a few battles under their belts—it is recommended to use the Experienced Characters rule. This rule can be found in the sidebar on page 44 of the Genesys Core Rulebook.
 
-
 #### Step 5: Determine Derived Attributes
 
 After you have spent all of your starting experience it is time to work out your characters derived attributes. The derived attributes include wound threshold, strain threshold, defense, and soak value.
@@ -72,6 +71,10 @@ If you have access to, and your Game Master is allowing, Shadow of the Beanstalk
 Now is the time you determine the descriptive details of your character and spend your starting credits. While your character's appearance and personality are completely up to you, page 54 of the Genesys Core Rulebook has some helpful guidelines.
 
 In addition to what your character looks and acts like, you also get to spend your starting credits. For Titanfall: Genesys, your character starts with 1,000 credits to purchase starting gear. You may not start with any restricted gear—those listed with `(R)` next to the price. GMs, if you are using the Experienced Characters optional rule, you may give your players an additional 500 credits (for a total of 1,500 starting credits) and one item may be restricted.
+
+
+
+
 
 
 

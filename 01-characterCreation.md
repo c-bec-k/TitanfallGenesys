@@ -23,7 +23,7 @@ An Ace counts the following skills as career skills:  **Astrocartography**, **Co
 
 ### Leader
 
-The Leader focuses on leading and directing their fellows, as well as interacting with others. Leaders have a knack for taking charge and overseeing a situation, but their meth-ods of leadership can vary wildly. A Leader can be a kind and caring boss, a soft-spoken politician, or a military  commander who believes in absolute discipline.
+The Leader focuses on leading and directing their fellows, as well as interacting with others. Leaders have a knack for taking charge and overseeing a situation, but their methods of leadership can vary wildly. A Leader can be a kind and caring boss, a soft-spoken politician, or a military  commander who believes in absolute discipline.
 
 The Leader counts the following skills as career skills: **Charm**, **Coercion**, **Cool**, **Discipline**, **Leadership**, **Melee**, **Negotiation**, and **Perception**. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
 
@@ -69,7 +69,7 @@ The Technician counts the following skills as career skills: **Computers**, **Di
 
 #### Aerospace (Agility)
 
-This skill covers the use and operation of any vehicle that flies through an atmosphere or in space. This takes the place of the Pilot skill from the <em>Genesys</em> Core Rule Book (found on pages 62–63).
+This skill covers the use and operation of any vehicle that flies through an atmosphere or in space. This takes the place of the Pilot skill from the *Genesys* Core Rule Book (found on pages 62–63).
 
 #### Titan (Cunning)
 

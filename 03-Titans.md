@@ -8,7 +8,7 @@ There are three classes of titans, as described below.
 
 All titans have the following special rule:
 
-<strong>Humanoid Form:</strong> As long as a Titan's propulsion isn't compromised it ignores the speed requirement for the Reposition maneuver.
+**Humanoid Form:** As long as a Titan's propulsion isn't compromised it ignores the speed requirement for the Reposition maneuver.
 
 <h5>Atlas-Class Titan</h5>
 
@@ -38,15 +38,14 @@ The Atlas is the oldest Titan model on the Frontier and has instigated the devel
 <span class="ss">15</span>
 </div>
 
-<p><strong>Control Skill:</strong> Pilot (Titan)<br/>
-<strong>Compliment:</strong> One pilot<br/>
-<strong>Passenger Capacity:</strong> None<br/>
-<strong>Price/Rarity:</strong> 21,750/8<br/>
-<strong>Consumables:</strong> None<br/>
-<strong>Encumbrance Capacity:</strong> 2<br/>
-<strong>Weapons:</strong> Titan punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]) <br/>
-<strong>Damage Core:</strong> The Atlas-class Titan has an in-built damage core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Aim maneuver as an Incidental.<br/>
-<strong>Hard Points:</strong> 3</p>
+**Control Skill:** Pilot (Titan) /
+**Compliment:** One pilot /
+**Passenger Capacity:** None /
+**Price/Rarity:** 21,750/8 /
+**Consumables:** None /
+**Encumbrance Capacity:** 2 /
+**Weapons:** Titan punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged])  /
+**Damage Core:** The Atlas-class Titan has an in-built damage core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Aim maneuver as an Incidental.
 
 <h5>Ogre-Class Titan</h5>
 
@@ -64,15 +63,14 @@ The H-KA02/a Ogre Heavy Titan is a Titan model produced by Hammond Armament Divi
 <span class="ss">18</span>
 </div>
 
-<p><strong>Control Skill:</strong> Pilot (Titan)<br/>
-<strong>Compliment:</strong> One pilot<br/>
-<strong>Passenger Capacity:</strong> None<br/>
-<strong>Price/Rarity:</strong> 20,750/8<br/>
-<strong>Consumables:</strong> None<br/>
-<strong>Encumbrance Capacity:</strong> 2<br/>
-<strong>Weapons:</strong> Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Vicious 1)<br/>
-<strong>Shield Core:</strong> The Ogre-class Titan has an in-built shield core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Brace for Impact maneuver as an Incidental.<br/>
-<strong>Hard Points:</strong> 3</p>
+**Control Skill:** Pilot (Titan) /
+**Compliment:** One pilot /
+**Passenger Capacity:** None /
+**Price/Rarity:** 20,750/8 /
+**Consumables:** None /
+**Encumbrance Capacity:** 2 /
+**Weapons:** Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Vicious 1) /
+**Shield Core:** The Ogre-class Titan has an in-built shield core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Brace for Impact maneuver as an Incidental. /
 
 <h5>Stryder-Class Titan</h5>
 
@@ -90,17 +88,16 @@ The Stryder is a Titan chassis developed and manufactured by Hammond Robotics. D
 <span class="ss">20</span>
 </div>
 
-<strong>Control Skill:</strong> Pilot (Titan)<br />
-<strong>Compliment:</strong> One pilot<br/>
-<strong>Passenger Capacity:</strong> None<br/>
-<strong>Price/Rarity:</strong> 21,750/8<br/>
-<strong>Consumables:</strong> None<br/>
-<strong>Encumbrance Capacity:</strong> 2<br/>
-<strong>Weapons:</strong> Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Accurate 1)<br/>
-<strong>Dash Core:</strong> The Stryder-class Titan has an in-built dash core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Evade maneuver as an Incidental, ignoring the Speed requirement.<br/>
-<strong>Hard Points:</strong> 3
+**Control Skill:** Pilot (Titan) /
+**Compliment:** One pilot /
+**Passenger Capacity:** None /
+**Price/Rarity:** 21,750/8 /
+**Consumables:** None /
+**Encumbrance Capacity:** 2 /
+**Weapons:** Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Accurate 1) /
+**Dash Core:** The Stryder-class Titan has an in-built dash core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Evade maneuver as an Incidental, ignoring the Speed requirement.
 
-# Titan Systems
+## Titan Systems
 
 ### Main Weapons
 
@@ -235,7 +232,7 @@ The Multi-Target Missile System enables you to engage multiple targets at once. 
 
 #### Rocket Salvo
 
-The Rocket Salvo launches a rapid salvo of unguided rockets. Each <span class='symbols'>s</span> deals +2 damage, instead of +1.
+The Rocket Salvo launches a rapid salvo of unguided rockets. Each [SU] deals +2 damage, instead of +1.
 
 #### Slaved Warheads
 
@@ -334,9 +331,9 @@ Titans are not indestructible, regardless of what the IMC wants you to believe. 
 
 Electric smoke is a reactionary device used to avoid attacks and negate tracking weapons.
 
-Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the *Genesys* Core Rulebook). Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won’t (or can’t) disembark, they must make a **Hard (<span class="difficulty">ddd</span>) Resilience check** or suffer 1 wound, plus 1 additional wound per <span class='symbols'>f</span>. If the Resilience check generates <span class='symbols'>hh</span>, they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
+Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the *Genesys* Core Rulebook). Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won’t (or can’t) disembark, they must make a **Hard (<[D[D[D]]]) Resilience check** or suffer 1 wound, plus 1 additional wound per [FA]. If the Resilience check generates [TH][TH][TH], they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
 
-Electric smoke comes equipped with 3 smoke canisters. 
+Electric smoke comes equipped with 3 smoke canisters.
 
 #### Particle Wall
 
@@ -346,7 +343,7 @@ The particle wall creates a concave force field which blocks all projectiles fro
 
 The Vortex Shield allows Titans to stop enemy fire such as rockets and bullets in their tracks and is able to send the projectiles right back to the enemy.
 
-As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates <span class='symbols'>hhh</span>, you may reflect the projectile (if any) back on the target, dealing the weapon’s base damage to the attacker. If the check generates <span class='symbols'>d</span>, you instead deal a Critical Injury (or a Critical Hit for vehicles).
+As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates [TH][TH][TH], you may reflect the projectile (if any) back on the target, dealing the weapon’s base damage to the attacker. If the check generates [DE], you instead deal a Critical Injury (or a Critical Hit for vehicles).
 
 <table>
 <caption>Titan Defense Systems</caption>
@@ -354,7 +351,6 @@ As an out-of-turn incidental you may deploy the vortex shield when targeted by a
 <thead>
 <tr>
 <th style="text-align:left">System</th>
-<th style="text-align:center">HP</th>
 <th style="text-align:right">Price</th>
 <th style="text-align:center">Rarity</th>
 </tr>
@@ -362,19 +358,16 @@ As an out-of-turn incidental you may deploy the vortex shield when targeted by a
 <tbody>
 <tr>
 <td style="text-align:left">Electric Smoke</td>
-<td style="text-align:center">1</td>
 <td style="text-align:right">2,000</td>
 <td style="text-align:center">8</td>
 </tr>
 <tr>
 <td style="text-align:left">Particle Wall</td>
-<td style="text-align:center">1</td>
 <td style="text-align:right">3,000</td>
 <td style="text-align:center">8</td>
 </tr>
 <tr>
 <td style="text-align:left">Vortex Shield</td>
-<td style="text-align:center">1</td>
 <td style="text-align:right">1,000</td>
 <td style="text-align:center">8</td>
 </tr>

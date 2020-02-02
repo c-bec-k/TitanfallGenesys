@@ -1,16 +1,16 @@
 # Equipment
 
-##### New Qualities
+## New Qualities
 
 The following qualities are available to certain weapons in *Titanfall: Genesys*
 
-###### Arc
+### Arc
 
-Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending <span class="symbols">aa</span> (instead of the usual <span class="symbols">aaa</span>).
+Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending [AD][AD] (instead of the usual [AD][AD][AD]).
 
-###### Reduced Magazine
+### Reduced Magazine
 
-Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending <span class="symbols">hhh</span> (in addition to the normal <span class="symbols">d</span>).
+Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DE]).
 
 ## Weapons
 
@@ -19,29 +19,26 @@ Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through
 Not all weapons are firearms. Sometimes you need to get up close and personal. For that, there are several melee weapons available to soldiers.
 
 #### Brass Knuckles
+
 Brass knuckles are very simple weapons: chunks of brass designed to slip over your fingers and add power to your punches.
 
 #### Combat Knife
 
 The ubiquitous knife is easy to use, lightweight and one of the first weapons most soldiers learn to fight with.
 
-\columnbreak
-
 #### Longblade
 
 Longblades have been coming back into vogue since the first sight of a Titan carrying a sword of its own. Deadly and silent, this weapon is the preferred weapon of scouts and assassins alike.
-
 
 #### Stun Baton
 
 A short length of metal with a rubber handle, the stun baton is designed to shock the enemy into submission.
 
-
 #### Truncheon
 
 Not as common for soldiers, but local law enforcement is commonly seen for their ability to subdue—rather than kill—their target.
 
-<table class='wide' style="margin-top:-28em;">
+<table>
 <caption>Melee Weapons</caption>
 
 <colgroup>
@@ -140,11 +137,11 @@ Sidearms are a common sight on the battlefield, as everyone and their mother hav
 
 #### B3 Wingman
 
-The B3 Wingman is an extremely powerful revolver with very high accuracy out to long ranges. Precision aim is re-quired to mitigate the disadvantages of its very low rate of fire.
+The B3 Wingman is an extremely powerful revolver with very high accuracy out to long ranges. Precision aim is required to mitigate the disadvantages of its very low rate of fire.
 
 #### Hammond P2011
 
-The Hammond P2011 is a semi-automatic handgun with good accuracy and damage at range. Its integrated 'match trigger' allows it to be fired very rapidly, which is useful in close quarters. 
+The Hammond P2011 is a semi-automatic handgun with good accuracy and damage at range. Its integrated 'match trigger' allows it to be fired very rapidly, which is useful in close quarters.
 
 #### RE-45 Autopistol
 
@@ -223,7 +220,7 @@ The RE-45 is a fully automatic .45 caliber pistol, sacrificing damage and accura
 
 The Smart Pistol scans for hostile targets within a short range, locking onto them automatically. Any rounds fired will then maneuver to hit the locked targets. Aiming with the iron sights allows the operator to use the pistol in manual targeting mode. Spare ammunition for the smart pistol is twice the price as normal ammo, 50 credits.
 
-### Longarms
+### Long-arms
 
 #### C.A.R. SMG
 
@@ -301,7 +298,7 @@ As an action you may place up to two charges within Engaged range. As an out-of-
 
 #### Archer Heavy Rocket
 
-The Archer fires a powerful homing rocket. It must be locked onto a target before it can be fired.When aimed, a targeting window flips out, allowing target acquisition. Hold this window over thetarget continuously until a lock is achieved, then fire. The Guided quality can only be activated when attacking targets made of significant metal content, like Titans and Spectres. Reload rockets for the Archer cost 3,000 credit.
+The Archer fires a powerful homing rocket. It must be locked onto a target before it can be fired.When aimed, a targeting window flips out, allowing target acquisition. Hold this window over the target continuously until a lock is achieved, then fire. The Guided quality can only be activated when attacking targets made of significant metal content, like Titans and Spectres. Reload rockets for the Archer cost 3,000 credit.
 
 #### Charge Rifle
 
@@ -310,7 +307,7 @@ The Charge Rifle fires an energy beam that inflicts massive damage. Holding the 
 
 <table class="wide"  style="margin-top:4em;">
 
-<caption>Longarms</caption>
+<caption>Long-arms</caption>
 
 <thead>
 <tr>
@@ -632,77 +629,77 @@ Not a form of combat armour, but a well-made jacket does provide limited protect
 </tbody>
 </table>
 
-# Items
+## Items
 
-## Gear
+### Gear
 
-A Militia Titan pilot needsmore than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane—but no less important—items that makes a Militia pilot more than a grunt with a gun.
+A Militia Titan pilot needs more than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane—but no less important—items that makes a Militia pilot more than a grunt with a gun.
 
-### Backpack
+#### Backpack
 
 While wearing a backpack, your character increases their encumbrance threshold by four.
 
-### Combat Harness
+#### Combat Harness
 
 A combat harness is a system used by soldiers to carry necessary equipment on their persons in easily accessible pouches. They are commonly made of hard-wearing reinforced textiles, and often with removable armor plates.
 
 A combat harness increases a wearer's encumbrance threshold by 2.
 
-### Comm-Bead
+#### Comm-Bead
 
 This communications device fits into a sentient's ear (or other auditory orifice) and allows them to communicate with friends and allies within 100 kilometers. If the comm-bead can tie into a planetary communications network (the kind that any civilized planet has), then it can communicate with anyone on the same planet.
 
 An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is upgraded twice.
 
-### Cybernetics
+#### Cybernetics
 
 See *Genesys* Core Rulebook page 177.
 
-### Extra Magazine
+#### Extra Magazine
 
 This is exactly what it sounds like: an extra magazine of ammunition for a ranged weapon.
 
 If your character has an extra magazine, they may spend a maneuver to reload and continue to use their weapon if it runs out of ammo. This uses up the extra magazine. (You  can’t use this to reload weapons with the Limited Ammo quality, as they usually have special costs for their reloads or are one-use weapons.)
 
-### First Aid Kit
+#### First Aid Kit
 
-A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, <span class="symbols">hhh</span> or <span class="symbols">d</span> means your characterhas used allof the kit's supplies.
+A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][TH][TH] or [DE] means your character has used all of the kit's supplies.
 
-### Jump Kit
+#### Jump Kit
 
 Jump Kits provide a brief burst of thrust that is used to leap to higher locations. They also have a function that adjusts the deceleration on potentially fatal descents to safe levels, allowing Pilots to fall from great heights without injury.
 
 When armed with a jump kit, upgrade all Athletics checks to climb and jump once and ignore difficult terrain as long as you can bypass it via a nearby wall or other outcropping. In addition, reduce the overall distance fallen by one range band.
 
-### Night Optics
+#### Night Optics
 
-These goggles allows the wearer to see in the dark. When wearingnight optics, your character removes up to <span class="setback">bb</span> added to their checks due to darkness.
+These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][S] added to their checks due to darkness.
 
-### Painkillers
+#### Painkillers
 
 See page 94 of the *Genesys* Core Rulebook.
 
-### Panacea
+#### Panacea
 
 This liquid cocktail of adrenaline and various pharmaceutical drugs is used to temporarily enhance awareness and promote localized healing. The panacea is stored in a one-use syringe that is quickly injected to the subject.
 
-When making a Medicine check, your character may use a panacea to add automatic <span class='symbols'>sa</span> to the results. The panacea is consumed when used.
+When making a Medicine check, your character may use a panacea to add automatic [SU][AD] to the results. The panacea is consumed when used.
 
-### Portable Medkit
+#### Portable Medkit
 
 A well-equipped portable medkit comes with everything someone might need to treat all manner of injuries, from bullet wounds to broken legs.
 
-A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic <span class='symbols'>a</span> to the check results.
+A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic [AD] to the check results.
 
-### Pulse Blade
+#### Pulse Blade
 
 the pulse blade can be thrown and provides a brief sonar pulse that can detect enemies even through walls.
 
-As an action, a charactermay make an <b>Average (<span class='difficulty'>dd</span>) Ranged (Light) check</b> to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released. 
+As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released. 
 
 The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
 
-### Utility Belt
+#### Utility Belt
 
 Often worn in addition to a combat harness, or used as a component, utility belts are common items for militia in the field where quick access to important tools is a life-saving necessity. Contents and configurations vary by user and by mission; many include integral holsters or gun belts.
 
@@ -727,11 +724,12 @@ by 1.
 |Pulse Blade |1 |150 |5
 |Utility Belt |+1 |25 |0
 
-# Item Attachments
+## Item Attachments
 
 Item attachments follow the rules on pages 206–209 of the *Genesys* Core Rulebook. Many of the attachments in that section are available in *Titanfall: Genesys* as well as new attachments described below.
 
-## Weapon Attachments
+### Weapon Attachments
+
 The following weapon attachments are available to characters in the *Titanfall: Genesys* setting. In addition, several attachments from the *Genesys* Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
@@ -758,7 +756,7 @@ Italicized attachments are new and found in the following section.
 
 The Dataspike is a tool used to hack into enemy Spectres, turrets or other computing devices. It has an on-board AI programmed specifically to hack into enemy computers. \
 **Use With:** The dataspike is specifically designed to be used with the combat knife. \
-**Modifiers:** Dataspikes can perform Computers checks for a player with a Computers skill of 2 and an Intellect of 0. If unassisted it rolls <span class='ability'>dd</span> for Computers checks (see pages 26–27 of the *Genesys* Core Rulebook for rules on assisted checks). \
+**Modifiers:** Dataspikes can perform Computers checks for a player with a Computers skill of 2 and an Intellect of 0. If unassisted it rolls [A][A] for Computers checks (see pages 26—27 of the *Genesys* Core Rulebook for rules on assisted checks). \
 **Hard Points Required:** 1 \
 **Price:** 500
 
@@ -766,7 +764,7 @@ The Dataspike is a tool used to hack into enemy Spectres, turrets or other compu
 
 While most guided weaponry is good as-is, many users tweak the targeting code to acquire a lock faster. \
 **Use With:** Any weapon with the Guided quality may have this attachment. \
-**Modifiers:** When you preform the aim maneuver you may add <span class='symbols'>a</span> instead of <span class='boost'>b</span> to your combat check. \
+**Modifiers:** When you preform the aim maneuver you may add [AD] instead of [B] to your combat check. \
 **Hard Points Required:** 1 \
 **Price:** 800
 
@@ -790,7 +788,7 @@ A simple and lower-tech solution than most on the Frontier are used to, it is a 
 
 A silencer makes it harder for others to pinpoint the location of shots made with the weapon it is attached to. \
 **Use With:** Any firearm can have a silencer attached. \
-**Modifiers:** Adds <span class='setback'>bb</span> to any Perception or Vigilance checks to locate the shooter firing the weapon. \
+**Modifiers:** Adds [S][S] to any Perception or Vigilance checks to locate the shooter firing the weapon. \
 **Hard Points Required:** 1 \
 **Price:** 100
 
@@ -811,7 +809,7 @@ Italicized attachments are new and found in the following section.
 |*Grapple Launcher* |2 |350 |3
 |Reinforced Plating |2 |8,000 |7
 |*Stim Injectors* |1 |2,500 |5
-|Vacuum Sealed |1 |600 |4 
+|Vacuum Sealed |1 |600 |4
 
 ### Extra Emitters
 
@@ -830,15 +828,15 @@ This attachment adds a layer of padding to the cloaking device to help absorb th
 
 ### Grapple Launcher
 
-The grapple launcher has a weighted head designed to pierce and hold firm to any solid surface. It allows the wearer to traverse longer distances than normal—even straight up! Whether you're trying to get away, close the distance or get in or out of a secure site in a hurry, the grap-ple launcher is just what you need. Some crazy pilots even use it to rodeo a Titan! \
+The grapple launcher has a weighted head designed to pierce and hold firm to any solid surface. It allows the wearer to traverse longer distances than normal—even straight up! Whether you're trying to get away, close the distance or get in or out of a secure site in a hurry, the grapple launcher is just what you need. Some crazy pilots even use it to rodeo a Titan! \
 **Use With:** This attachment can be applied to any armor. \
-**Modifiers:** As an action, a character may make an **Average (<span class='difficulty'>dd</span>) Ranged (Light) check** to secure the grapple launcher on any solid object within short range. On a success, they may, as a maneuver, reel in the cord and pull themselves towards the the object. If the object is unsecured, it instead is pulled to the character. \
+**Modifiers:** As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the grapple launcher on any solid object within short range. On a success, they may, as a maneuver, reel in the cord and pull themselves towards the the object. If the object is unsecured, it instead is pulled to the character. \
 **Hard Points Required:** 2 \
 **Price:** 350
 
 ### Stim Injectors
 
-Stim injectors, or simply 'stims' to those who use them, are used for brief bursts of speed on the battlefield. On command they inject a potent cocktail of adrenaline and various pharmaceu-ticals that increase speed and reaction time. While it enables characters to get where they're going faster, it does stress the user's system. Use With: This attachment can be applied to any armor. \
+Stim injectors, or simply 'stims' to those who use them, are used for brief bursts of speed on the battlefield. On command they inject a potent cocktail of adrenaline and various pharmaceuticals that increase speed and reaction time. While it enables characters to get where they're going faster, it does stress the user's system. Use With: This attachment can be applied to any armor. \
 **Modifiers:** Once per round on your turn after you have performed two maneuvers you may suffer 1 strain to perform the move maneuver as an incidental. At the end of any encounter where your character used the stim injectors, they suffer 3 additional strain. \
 **Hard Points Required:** 1 \
 **Price:** 2,500

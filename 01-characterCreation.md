@@ -1,6 +1,36 @@
-# Creating Characters
+# Character Creation
 
-## Archetypes
+Most inhabitants of the Frontier just want to live their lives. Wake up, get a cup of coffee, go to work, do their job, come home, eat dinner and go to bed. And then wake up in the morning to repeat the process.
+
+Yesterday, that could have described you. Tomorrow, you may wish it still did.
+
+In Titanfall: Genesys, you play a mostly-normal person living in the Frontier who has gotten sick and tired of the IMC thinking they own you. You are not property and you're ready to make sure they know it, too!
+
+Maybe you witnessed something you can't unsee. Maybe you were treated like dirt one too many times. Maybe someone you love just disappeared. Whatever the reason, you can no longer hide your head in the sand. You have to fight back!
+
+You are now a member of the Frontier Militia; in name only or perhaps you sought out your local Militia chapter and 'enlisted'. Either way, the IMC will pay and you are the one to make sure they do!
+
+## Creating Your Character
+
+This document supplements the *Genesys* Core Rulebook to play games set in Respawn's Titanfall universe. While this document is geared towards the items and Titans seen in the first installment of the series, it wouldn't be too much work to use the *Expanded Player's Guide* to fashion additional Titans based off of the second game in the series.
+
+In this chapter, you will find all of the rules and information that, combined with the character creation rules that start on page 32 of the Genesys Core Rulebook, you’ll need to build a character for this game. To build a character, you’ll follow the steps outlined here (which mirror the steps found in the Genesys Core Rulebook).
+
+### Steps for Creating Characters
+
+Titanfall: Genesys uses the system set out in the Core Rulebook to create characters. You follow the seven steps as laid out in the Genesys Core Rulebook, with the exceptions noted below (for example, Step 2 has new archetypes and you have more cash to spend on equipment in Step 7).
+
+#### Step 1: Determine Background
+
+Who is your character? Where do they come from? Why have they joined the Militia? What did they do before enlisting? What was the last straw that broke the camel's back and made them want to fight?
+
+A solid idea for your character's background can go a long way towards helping you decide on the mechanical bits for your character. It doesn't have to be a long background, just enough to get an idea of who they are and what they want.
+
+If you want to write out your character's background, try to keep it to no more than 4 paragraphs and under 300 words total.
+
+#### Step 2: Select a Character Archetype
+
+Once you have a firm idea of who your character is, the next step is to choose an archetype. You are free to choose any of the four human archetypes listed in the Genesys Core Rulebook starting on page 36 or choose one of the three new archetypes introduced later in this chapter. Note, however, that each of the Core Rulebook archetypes have a few changes made to them, as discussed in the Archetype section, below.
 
 All CRB archetypes, plus:
 
@@ -9,11 +39,48 @@ All CRB archetypes, plus:
 * Opportunist (trickster from EPG)
 * Maybe others from the EPG
 
-## Careers
+#### Step 3: Choose a Career
 
-There are many careers available on the frontier, but not all of them lend themselves to making for successful members of the militia.
+Now that you have a background and an archetype decided on, you can choose your character's career.
 
-The following careers are available, with options available upon GM approval.
+There are a number of careers available in Titanfall: Genesys. And while many of them are from the Genesys Core Rulebook, those that are have been re-printed here because many have skill substitutions based on the setting. It is easier to have the career with the correct skills listed instead of having to remember which skills are and are not available in this setting.
+
+#### Step 4: Invest Experience Points
+
+Now that you have the basic building blocks of your character in place, it is time for you to customize them by spending starting experience points. Each archetype gives you a specific amount of experience points you can spend, and there is a table on page 45 of the Genesys Core Rulebook that explains how you can spend it.
+
+Two things to note when spending your starting experience:
+
+* It is suggested on the bottom of page 36 of the Core Rulebook that you spend all but 25–35 experience on characteristics, since this is going to be the last time (outside of the Dedicated talent) you'll be able to modify those numbers
+* As a Titanfall: Genesys GM, if you want your players to be veterans of the Titan War instead of new recruits—or if you want them to be new recruits with a few battles under their belts—it is recommended to use the Experienced Characters rule. This rule can be found in the sidebar on page 44 of the Genesys Core Rulebook.
+
+
+#### Step 5: Determine Derived Attributes
+
+After you have spent all of your starting experience it is time to work out your characters derived attributes. The derived attributes include wound threshold, strain threshold, defense, and soak value.
+
+#### Step 6: Determine Motivations
+
+Perhaps the most important aspect of your character is their Motivation. This is going to help you figure out how your character responds to any given situation, how they deal with dangers and threats, and what drives them to succeed.
+
+How Motivations work and lists of Motivations to choose from can be found on page 46 of the Genesys Core Rulebook.
+
+If you have access to, and your Game Master is allowing, Shadow of the Beanstalk you may also chose a starting Favor, as described on page 53 of that book.
+
+#### Step 7: Choose Gear, Appearance, and Personality
+
+Now is the time you determine the descriptive details of your character and spend your starting credits. While your character's appearance and personality are completely up to you, page 54 of the Genesys Core Rulebook has some helpful guidelines.
+
+In addition to what your character looks and acts like, you also get to spend your starting credits. For Titanfall: Genesys, your character starts with 1,000 credits to purchase starting gear. You may not start with any restricted gear—those listed with `(R)` next to the price. GMs, if you are using the Experienced Characters optional rule, you may give your players an additional 500 credits (for a total of 1,500 starting credits) and one item may be restricted.
+
+
+
+
+
+
+
+
+## New Careers
 
 ### Ace
 
@@ -63,7 +130,7 @@ A Technician is an expert of all things mechanical and technical. They excel whe
 
 The Technician counts the following skills as career skills: **Computers**, **Discipline**, **Knowledge (Education)**, **Mechanics**, **Perception**, **Pilot (Aerospace)**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Hacker may choose four of their career skills and gain one rank in each of them.
 
-## Skills
+## New Skills
 
 ### Piloting
 
@@ -87,7 +154,7 @@ This skill covers the intricacies of piloting the massive war machines called Ti
 * Your character wants to fix a Titan. That uses the Mechanics skill.
 * Your character is walking the Titan from Point A to Point B without any fear of failure.
 
-## Talents
+## New Talents
 
 ### Tier 1
 

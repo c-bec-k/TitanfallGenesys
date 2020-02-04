@@ -30,7 +30,7 @@ If you want to write out your character's background, try to keep it to no more 
 
 #### Step 2: Select a Character Archetype
 
-Once you have a firm idea of who your character is, the next step is to choose an archetype. You are free to choose any of the four human archetypes listed in the Genesys Core Rulebook starting on page 36 or choose one of the three new archetypes introduced later in this chapter. Note, however, that each of the Core Rulebook archetypes have a few changes made to them, as discussed in the Archetype section, below.
+Once you have a firm idea of who your character is, the next step is to choose an archetype. You are free to choose any of the four human archetypes listed in the Genesys Core Rulebook starting on page 36 or choose one of the three new archetypes introduced later in this chapter.
 
 #### Step 3: Choose a Career
 
@@ -69,20 +69,37 @@ In addition to what your character looks and acts like, you also get to spend yo
 
 As mentioned previously, all characters in Titanfall: Genesys are human and thus all the human archetypes in the Genesys Core Rulebook on pages 36–39 are available to choose from. In addition, you will find three new archetypes presented here, the athlete, the cyborg, and the opportunist. Please note that the cyborg presented here is slightly different than the cyborg archetype found in Shadow of the Beanstalk.
 
-### The Athlete
+### Athlete
 
-Use the gymnast from AS, swap Ag and Will.
+* **Starting characteristics:** 2/3/1/2/2/2
+* WT: 9 + Brawn
+* ST: 11 + Willpower
+* **Starting XP:** 90
+* **Starting Skill:** Athletics
+* **In The Blink of an Eye:** Once per session you may spend a Story Point to activate this ability. If you do so, your character may, as a maneuver, move to any location within medium range, as long as they could run, climb, jump, swim, or crawl there. The GM may decide that certain impassable terrain (like a 12 foot wall) cannot be bypassed by this ability.
 
-### The Cyborg
+### Cyborg
 
-Start with one cyberorgan and one other cybernetic that costs 1,000 or less. Starting ST: 9 + WT.
+The cyborg archetype is taken from Shadow of the Beanstalk, but copied here for your convenience. This archetype makes use of the cybernetics rules found either on page 177 of the Genesys Core Rulebook or starting on page 104 of Shadow of the Beanstalk.
 
-### The Opportunist
+* **Starting characteristics:** 3/2/2/2/2/1
+* WT: 11 + Brawn
+* ST: 8 + Willpower
+* **Starting XP:** 100
+* **Starting Skill:** Mechanics
+* **Adjusted to Cybernetics:** Once per session as an out-of-turn incidental, you may spend a Story Point to have your character heal strain equal to their number of cybernetics.
+* **Cyborg:** Your character begins play with one that costs a total of 1,000 credits or less. They do not need to make any check to install this cybernetic, and they do not decrease their strain threshold because of this cybernetic (but will decrease their strain threshold as normal if they get any future cybernetics).
 
-Trickster (EPG11), but:
+### Trickster
 
-* ST: 9 + Will
-* Rename Too Cleaver by Half to Golden Opportunity
+The trickster archetype is found on page 11 of the Expanded Player's Guide, but is copied here for your convenience.
+
+* **Starting characteristics:** 2/2/2/3/1/2
+* WT: 10 + Brawn
+* ST: 9 + Willpower
+* **Starting XP:** 100
+* **Starting Skill:** Deception, Knowledge, Skulduggery, or Streetwise.
+* **Too Clever by Half:** Once per session before your character makes a skill check with [B] in the dice pool, you may spend a Story Point to double the number of [B] currently in the dice pool. If your character fails the check, they suffer 6 strain in addition to any other penalties.
 
 ## New Careers
 

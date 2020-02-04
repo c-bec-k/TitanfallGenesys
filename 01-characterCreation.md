@@ -72,28 +72,36 @@ Now is the time you determine the descriptive details of your character and spen
 
 In addition to what your character looks and acts like, you also get to spend your starting credits. For Titanfall: Genesys, your character starts with 1,000 credits to purchase starting gear. You may not start with any restricted gear—those listed with `(R)` next to the price. GMs, if you are using the Experienced Characters optional rule, you may give your players an additional 500 credits (for a total of 1,500 starting credits) and one item may be restricted.
 
+## New Character Archetypes
 
+As mentioned previously, all characters in Titanfall: Genesys are human and thus all the human archetypes in the Genesys Core Rulebook on pages 36–39 are available to choose from. In addition, you will find three new archetypes presented here, the athlete, the cyborg, and the opportunist. Please note that the cyborg presented here is slightly different than the cyborg archetype found in Shadow of the Beanstalk.
 
+Lastly, there are a few changes to the human archetypes found in the Core Rulebook.
 
+* For the average human, reduce starting experience to 100 and add the following to Ready for Anything: "You may only do this if the Game Master has more Story Points in their pool."
+* For the laborer, increase starting experience to 105
+* For the intellectual, reduce starting strain threshold to 11 + Willpower and reduce starting experience to 95
+* For the aristocrat, reduce starting experience to 95
 
+### The Athlete
 
-
-
-
-
-
+Use the gymnast from AS, swap Ag and Will.
 
 ## New Careers
+
+While the list of careers in the Genesys Core Rulebook are quite extensive and very usable with Titanfall, the fact that there are several skill substitutions makes referencing them a bit more work than they otherwise could be.
+
+For that reason, the careers from the Core Rulebook will be re-printed here with the appropriate skills listed and a bit of lore about how the career fits into the Titanfall world.
 
 ### Ace
 
 An Ace is the master of all things that fly or drive. They get you from Point A to Point B in once piece, and then cover your ass while you're there.
 
-An Ace counts the following skills as career skills:  **Astrocartography**, **Cool**, **Drive**, **Gunnery**, **Mechanics**, **Perception**, **Piloting (Aerospace)**, **Ranged (light)**.
+An Ace counts the following skills as career skills: **Astrocartography**, **Cool**, **Drive**, **Gunnery**, **Mechanics**, **Perception**, **Piloting (Aerospace)**, **Ranged (light)**. Before spending experience during character creation, an Ace may choose four of their career skills and gain one rank in each of them.
 
 ### Leader
 
-The Leader focuses on leading and directing their fellows, as well as interacting with others. Leaders have a knack for taking charge and overseeing a situation, but their methods of leadership can vary wildly. A Leader can be a kind and caring boss, a soft-spoken politician, or a military  commander who believes in absolute discipline.
+The Leader focuses on leading and directing their fellows, as well as interacting with others. Leaders have a knack for taking charge and overseeing a situation, but their methods of leadership can vary wildly. A Leader can be a kind and caring boss, a soft-spoken politician, or a military commander who believes in absolute discipline.
 
 The Leader counts the following skills as career skills: **Charm**, **Coercion**, **Cool**, **Discipline**, **Leadership**, **Melee**, **Negotiation**, and **Perception**. Before spending experience during character creation, a Leader may choose four of their career skills and gain one rank in each of them.
 
@@ -101,7 +109,7 @@ The Leader counts the following skills as career skills: **Charm**, **Coercion**
 
 Some Medics come from prestigious backgrounds like doctors or nurses while others learn from experience. In either case, Medics are highly prized for their ability to save lives and keep the militia in fighting form.
 
-The Medic counts the following skills as career skills: **Cool**, **Discipline**, **Knowledge (Frontier)**, **Medicine**, **Ranged (Light)**, **Resilience**, **Survival**, and **Vigilance**. Before spending experience during character creation, a Medic may choose four of their career skills and gain one rank in each of them.
+The Medic counts the following skills as career skills: **Cool**, **Discipline**, **Knowledge**, **Medicine**, **Ranged (Light)**, **Resilience**, **Survival**, and **Vigilance**. Before spending experience during character creation, a Medic may choose four of their career skills and gain one rank in each of them.
 
 ### Ranger
 
@@ -113,13 +121,13 @@ The Ranger counts the following skills as career skills: **Athletics**, **Coordi
 
 Socialites are the consummate social butterflies, at ease in any interactions involving talking to someone else. Whether a rich debutante in the highest circles of society or a good-natured bartender who knows everyone’s name, a Socialite can get along with anyone and every-one. More importantly, they always know how to get the best out of any social interaction.
 
-The Socialite counts the following skills as career skills: **Charm**, **Cool**, **Deception**, **Knowledge (Education)**, **Negotiation**, **Perception**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Socialite may choose four of their career skills and gain one rank in each of them.
+The Socialite counts the following skills as career skills: **Charm**, **Cool**, **Deception**, **Knowledge**, **Negotiation**, **Perception**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Socialite may choose four of their career skills and gain one rank in each of them.
 
 ### Smuggler
 
 On the Frontier, resources are rarely distributed fairly or equitably. Some people use the services of Smugglers to redistribute resources in their favor, using both guile and technical skill. With their ability to move goods under the radar, they are indispensable in the fight against the IMC.
 
-A Smuggler counts the following skills as career skills: **Cool**, **Deception**, **Knowledge (Underworld)**, **Negotiation**, **Pilot (Aerospace)**, **Ranged (Light)**, **Skulduggery**, **Streetwise**.
+A Smuggler counts the following skills as career skills: **Cool**, **Deception**, **Knowledge**, **Negotiation**, **Pilot (Aerospace)**, **Ranged (Light)**, **Skulduggery**, **Streetwise**.
 
 ### Soldier
 
@@ -131,9 +139,11 @@ The Soldier counts the following skills as career skills: **Athletics**, **Brawl
 
 A Technician is an expert of all things mechanical and technical. They excel when something doesn't work and should or when something is working and they don't want it to.
 
-The Technician counts the following skills as career skills: **Computers**, **Discipline**, **Knowledge (Education)**, **Mechanics**, **Perception**, **Pilot (Aerospace)**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Hacker may choose four of their career skills and gain one rank in each of them.
+The Technician counts the following skills as career skills: **Astrocartography**, **Computers**, **Discipline**, **Mechanics**, **Perception**, **Pilot (Aerospace)**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Hacker may choose four of their career skills and gain one rank in each of them.
 
 ## New Skills
+
+Titanfall: Genesys introduces two new skills to the game
 
 ### Piloting
 

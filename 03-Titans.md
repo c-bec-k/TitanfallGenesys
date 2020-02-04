@@ -21,8 +21,7 @@ The Atlas seems to be the second tallest Titan model, though exact measurements 
 <div class="note">
 #### <u>Titans and Limited Ammo</u>
 
-Titans regularly have ordnance weapons on-board that has the Limited Ammo quality.  Although normally Limited Ammo weapons can be reloaded with a maneuver once exhausted, Titans
-generally carry only one payload of ordnance, and must be reloaded back at a base or carrier starship. They cannot be reloaded in mid-combat!
+Titans regularly have ordnance weapons on-board that has the Limited Ammo quality.  Although normally Limited Ammo weapons can be reloaded with a maneuver once exhausted, Titans generally carry only one payload of ordnance, and must be reloaded back at a base or carrier starship. They cannot be reloaded in mid-combat!
 </div>
 
 

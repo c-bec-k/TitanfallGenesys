@@ -32,13 +32,6 @@ If you want to write out your character's background, try to keep it to no more 
 
 Once you have a firm idea of who your character is, the next step is to choose an archetype. You are free to choose any of the four human archetypes listed in the Genesys Core Rulebook starting on page 36 or choose one of the three new archetypes introduced later in this chapter. Note, however, that each of the Core Rulebook archetypes have a few changes made to them, as discussed in the Archetype section, below.
 
-All CRB archetypes, plus:
-
-* Athlete
-* Cyborg (SotB)
-* Opportunist (trickster from EPG)
-* Maybe others from the EPG
-
 #### Step 3: Choose a Career
 
 Now that you have a background and an archetype decided on, you can choose your character's career.
@@ -76,16 +69,20 @@ In addition to what your character looks and acts like, you also get to spend yo
 
 As mentioned previously, all characters in Titanfall: Genesys are human and thus all the human archetypes in the Genesys Core Rulebook on pages 36–39 are available to choose from. In addition, you will find three new archetypes presented here, the athlete, the cyborg, and the opportunist. Please note that the cyborg presented here is slightly different than the cyborg archetype found in Shadow of the Beanstalk.
 
-Lastly, there are a few changes to the human archetypes found in the Core Rulebook.
-
-* For the average human, reduce starting experience to 100 and add the following to Ready for Anything: "You may only do this if the Game Master has more Story Points in their pool."
-* For the laborer, increase starting experience to 105
-* For the intellectual, reduce starting strain threshold to 11 + Willpower and reduce starting experience to 95
-* For the aristocrat, reduce starting experience to 95
-
 ### The Athlete
 
 Use the gymnast from AS, swap Ag and Will.
+
+### The Cyborg
+
+Start with one cyberorgan and one other cybernetic that costs 1,000 or less. Starting ST: 9 + WT.
+
+### The Opportunist
+
+Trickster (EPG11), but:
+
+* ST: 9 + Will
+* Rename Too Cleaver by Half to Golden Opportunity
 
 ## New Careers
 
@@ -97,7 +94,7 @@ For that reason, the careers from the Core Rulebook will be re-printed here with
 
 An Ace is the master of all things that fly or drive. They get you from Point A to Point B in once piece, and then cover your ass while you're there.
 
-An Ace counts the following skills as career skills: **Astrocartography**, **Cool**, **Drive**, **Gunnery**, **Mechanics**, **Perception**, **Piloting (Aerospace)**, **Ranged (light)**. Before spending experience during character creation, an Ace may choose four of their career skills and gain one rank in each of them.
+An Ace counts the following skills as career skills: **Astrocartography**, **Cool**, **Drive**, **Gunnery**, **Mechanics**, **Perception**, **Piloting**, **Ranged (light)**. Before spending experience during character creation, an Ace may choose four of their career skills and gain one rank in each of them.
 
 ### Leader
 
@@ -127,7 +124,7 @@ The Socialite counts the following skills as career skills: **Charm**, **Cool**,
 
 On the Frontier, resources are rarely distributed fairly or equitably. Some people use the services of Smugglers to redistribute resources in their favor, using both guile and technical skill. With their ability to move goods under the radar, they are indispensable in the fight against the IMC.
 
-A Smuggler counts the following skills as career skills: **Cool**, **Deception**, **Knowledge**, **Negotiation**, **Pilot (Aerospace)**, **Ranged (Light)**, **Skulduggery**, **Streetwise**.
+A Smuggler counts the following skills as career skills: **Cool**, **Deception**, **Knowledge**, **Negotiation**, **Pilot**, **Ranged (Light)**, **Skulduggery**, **Streetwise**.
 
 ### Soldier
 
@@ -139,44 +136,13 @@ The Soldier counts the following skills as career skills: **Athletics**, **Brawl
 
 A Technician is an expert of all things mechanical and technical. They excel when something doesn't work and should or when something is working and they don't want it to.
 
-The Technician counts the following skills as career skills: **Astrocartography**, **Computers**, **Discipline**, **Mechanics**, **Perception**, **Pilot (Aerospace)**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Hacker may choose four of their career skills and gain one rank in each of them.
-
-## New Skills
-
-Titanfall: Genesys introduces two new skills to the game
-
-### Piloting
-
-#### Aerospace (Agility)
-
-This skill covers the use and operation of any vehicle that flies through an atmosphere or in space. This takes the place of the Pilot skill from the *Genesys* Core Rule Book (found on pages 62–63).
-
-#### Titan (Cunning)
-
-This skill covers the intricacies of piloting the massive war machines called Titans. Not only do you need to have quick reflexes to pilot them, but you need to know how the Titan moves compared to that of more conventional vehicles.
-
-##### Your character should use this skill if…
-
-* Your character is using their Titan to punch a target.
-* Your character maneuvers a Titan through a dense city block while under fire.
-* Your character is trying to dock a badly-damaged Titan.
-
-##### Your character should not use this skill if…
-
-* Your character is flying a shuttle craft. That falls under the Pilot (Aerospace) skill.
-* Your character wants to fix a Titan. That uses the Mechanics skill.
-* Your character is walking the Titan from Point A to Point B without any fear of failure.
+The Technician counts the following skills as career skills: **Astrocartography**, **Computers**, **Discipline**, **Mechanics**, **Perception**, **Pilot**, **Streetwise**, and **Vigilance**. Before spending experience during character creation, a Hacker may choose four of their career skills and gain one rank in each of them.
 
 ## New Talents
 
 ### Tier 1
 
 #### Precision
-
-**Tier:** 1 \
-**Activation:** Active (Incidental) \
-**Ranked:** No \
-When making a Brawl or Ranged (Light) check your character may use use Cunning instead of Brawn or Agility. Note that your Brawl damage is still based on Brawn.
 
 #### Spare Reload
 
@@ -188,21 +154,14 @@ Once per encounter, when you run out of ammo for a non-vehicular weapon, you may
 #### Bodyguard
 
 **Tier:** 2 \
-**Source:** *Realms of Terrinoth* \
+**Source:** *Realms of Terrinoth* & *Shadow of the Beanstalk* \
 Suffer strain (max of ranks) to upgrade combat checks targeting one engaged ally an equal amount.
 
 ### Tier 2
 
-#### Titan Combat Training
+#### Titan Training
 
 **Tier:** 2 \
 **Activation:** Passive \
 **Ranked:** No \
-Pilot (Titan) and Gunnery are now career skills for your character.
-
-#### Titan Dash
-
-**Tier:** 3 \
-**Activation:** Active (Incidental, Out of Turn) \
-**Ranked:** No \
-When your character's Titan suffers a hit from a ranged combat check, after damage is calculated but before it is applied, your character may have their Titan suffer 3 system strain to use this talent. Then, reduce the damage suffered by a number equal to their ranks in Pilot (Titan).
+When making a Driving check while in a Titan, downgrade the difficulty of the check once (thus negating the penalty associated with Driving a Titan).

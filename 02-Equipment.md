@@ -10,7 +10,7 @@ Arc weapons specialize in taking down energy shields with a massive jolt of arc 
 
 ### Reduced Magazine
 
-Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DR]).
+Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DE]).
 
 ## Weapons
 

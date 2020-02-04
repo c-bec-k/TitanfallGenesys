@@ -157,28 +157,68 @@ The Technician counts the following skills as career skills: **Astrocartography*
 
 ## New Talents
 
-### Tier 1
+This section introduces the new talents specific to the Titanfall setting. In addition, **Table XX.XX—XX: Genesys Talent for the Titanfall Setting** lists all the talents in the Genesys Core Rulebook that are applicable to this setting.
 
-#### Precision
+### Tier 1
 
 #### Spare Reload
 
 **Tier:** 1 \
 **Activation:** Active (Incidental) \
-**Ranked:** No \
+**Ranked:** No
+
 Once per encounter, when you run out of ammo for a non-vehicular weapon, you may use this talent to produce an extra magazine for that weapon.
 
-#### Bodyguard
+#### Speed Demon
 
-**Tier:** 2 \
-**Source:** *Realms of Terrinoth* & *Shadow of the Beanstalk* \
-Suffer strain (max of ranks) to upgrade combat checks targeting one engaged ally an equal amount.
+**Tier:** 1 \
+**Activation:** Active (Incidental) \
+**Ranked:** No
+
+Once per round while controlling a vehicle, your character may use this talent to modify the vehicle's current speed by 1. You cannot reduce the vehicle's current speed below 0 or above its max speed.
+
+#### Grease Monkey
+
+**Tier:** 1 \
+**Activation:** Passive \
+**Ranked:** Yes
+
+When your character succeeds in the Damage Control action, they repair additional hull trauma or system strain equal to their ranks in this talent.
 
 ### Tier 2
+
+#### Born Behind the Wheel
+
+**Tier:** 2 \
+**Activation:** Active (Incidental) \
+**Ranked:** No
+
+Once per round if your character is controlling a vehicle, you may spend a Story Point for your character to use this talent. If you do, the vehicle heals a number of system strain equal to your character's ranks in the vehicle's control skill.
 
 #### Titan Training
 
 **Tier:** 2 \
 **Activation:** Passive \
-**Ranked:** No \
+**Ranked:** No
+
 When making a Driving check while in a Titan, downgrade the difficulty of the check once (thus negating the penalty associated with Driving a Titan).
+
+
+### Tier 3
+
+#### Bodyguard
+
+**Tier:** 3 \
+**Activation:** Active (Maneuver) \
+**Ranked:** Yes
+
+Once per round, your character may suffer a number of strain no greater than their ranks in Body Guard to use this talent. Choose one ally engaged with your character; until the end of your character’s next turn, upgrade the difficulty of all combat checks targeting that ally a number of times equal to the strain suffered.
+
+#### Braced Fire
+
+**Tier:** 3 \
+**Activation:** Active (Maneuver) \
+**Ranked:** No
+
+Once per round, your character may use this talent to decrease the difficulty of the next Auto-Fire combat check they make during the same turn. If they do so, each time they trigger an additional hit during the attack, they suffer 1 strain.
+

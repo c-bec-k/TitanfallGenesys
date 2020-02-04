@@ -203,7 +203,6 @@ Once per round if your character is controlling a vehicle, you may spend a Story
 
 When making a Driving check while in a Titan, downgrade the difficulty of the check once (thus negating the penalty associated with Driving a Titan).
 
-
 ### Tier 3
 
 #### Bodyguard
@@ -221,4 +220,3 @@ Once per round, your character may suffer a number of strain no greater than the
 **Ranked:** No
 
 Once per round, your character may use this talent to decrease the difficulty of the next Auto-Fire combat check they make during the same turn. If they do so, each time they trigger an additional hit during the attack, they suffer 1 strain.
-

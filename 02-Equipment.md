@@ -10,7 +10,7 @@ Arc weapons specialize in taking down energy shields with a massive jolt of arc 
 
 ### Reduced Magazine
 
-Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DE]).
+Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DR]).
 
 ## Weapons
 
@@ -20,205 +20,71 @@ Not all weapons are firearms. Sometimes you need to get up close and personal. F
 
 #### Brass Knuckles
 
-Brass knuckles are very simple weapons: chunks of brass designed to slip over your fingers and add power to your punches.
+Brass knuckles are very simple weapons: chunks of brass designed to slip over your fingers and add power to your punches. Many ruffians and roughnecks use brass knuckles as a tool of intimidation but they are rarely seen on the battlefield. But when you're fighting against the IMC, you'll use any advantage you can get!
+
+* **Brass Knuckles:** Brawl; Damage +1; Cit 4; Range (Engaged); Disorient 2, Knockdown, Stun Damage (optional); 75 credits; Enc 1; HP 0
 
 #### Combat Knife
 
-The ubiquitous knife is easy to use, lightweight and one of the first weapons most soldiers learn to fight with.
+The ubiquitous knife is easy to use, lightweight and one of the first weapons most soldiers learn to fight with. While they are used as a close-in weapon, more often than not they are used for survival purposes instead of killing people. Cutting down branches for a fire, carving makeshift weapons, and even a cooking/eating tool, it is found on most worlds in the Frontier.
+
+* **Combat Knife:** Melee; Damage +1; Crit 3; Range (Engaged); Accurate 1; 150 credits; Enc 1; HP 1
 
 #### Longblade
 
 Longblades have been coming back into vogue since the first sight of a Titan carrying a sword of its own. Deadly and silent, this weapon is the preferred weapon of scouts and assassins alike.
 
+* **Longblade:** Melee; Damage +2; Crit 2; Range (Engaged); Defensive 1; 225 credits; Enc 1; HP 1
+
 #### Stun Baton
 
-A short length of metal with a rubber handle, the stun baton is designed to shock the enemy into submission.
+A favorite of those who wish to take a target alive, the stun baton is a baton with a small power cell that delivers a shock to those struck by it. As it is a simple enough weapon to manufacture there are a multitude of variants that range from a metal stick with a rubber handle to a composite alloy that extends and collapses for easy of storage.
 
-#### Truncheon
-
-Not as common for soldiers, but local law enforcement is commonly seen for their ability to subdue—rather than kill—their target.
-
-<table>
-<caption>Melee Weapons</caption>
-
-<colgroup>
-<col style="text-align:left;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:left;"/>
-<col style="text-align:center;"/>
-<col style="text-align:center;"/>
-<col style="text-align:right;"/>
-<col style="text-align:center;"/>
-</colgroup>
-
-<thead>
-<tr>
-	<th style="text-align:left;">Name</th>
-	<th style="text-align:left;">Skill</th>
-	<th style="text-align:center;">Damage</th>
-	<th style="text-align:center;">Crit.</th>
-	<th style="text-align:left;">Range</th>
-	<th style="text-align:center;">Enc.</th>
-	<th style="text-align:center;">HP</th>
-	<th style="text-align:right;">Price</th>
-	<th style="text-align:center;">Rarity</th>
-	<th style="text-align:left;">Special</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-	<td style="text-align:left;">Brass knuckles</td>
-	<td style="text-align:left;">Brawl</td>
-	<td style="text-align:center;">+1</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:left;">Engaged</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">0</td>
-	<td style="text-align:right;">25</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:left;">Disorient 3</td>
-</tr><tr>
-	<td style="text-align:left;">Combat Knife</td>
-	<td style="text-align:left;">Melee</td>
-	<td style="text-align:center;">+1</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:left;">Engaged</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:right;">25</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:left;">None</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Longblade</td>
-	<td style="text-align:left;">Melee</td>
-	<td style="text-align:center;">+2</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:left;">Engaged</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:right;">150</td>
-	<td style="text-align:center;">3</td>
-	<td style="text-align:left;">Defensive 1</td>
-</tr>
-<tr>
-	<td style="text-align:left;">Stun Baton</td>
-	<td style="text-align:left;">Melee</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:left;">Engaged</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:right;">150</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:left;">Stun Damage, Stun 3</td>
-</tr><tr>
-	<td style="text-align:left;">Truncheon</td>
-	<td style="text-align:left;">Melee</td>
-	<td style="text-align:center;">+1</td>
-	<td style="text-align:center;">4</td>
-	<td style="text-align:left;">Engaged</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:center;">1</td>
-	<td style="text-align:right;">75</td>
-	<td style="text-align:center;">2</td>
-	<td style="text-align:left;">Stun Damage</td>
-</tr>
-</tbody>
-
-</table>
+* **Stun Baton:** Melee; Damage +2; Crit 5; Range (Engaged); Disorient 3, Stun Damage; 125 credits; Enc 1; HP 1
 
 ### Sidearms
 
-Sidearms are a common sight on the battlefield, as everyone and their mother have one!
+Soldiers who are not in the front lines, like medics, mechanics, armor drivers, and the like have a sidearm as their main weapon, just in case. Others who are expected to be in the thick of things carry them as backup weapons.
 
-#### B3 Wingman
+#### Autopistol
 
-The B3 Wingman is an extremely powerful revolver with very high accuracy out to long ranges. Precision aim is required to mitigate the disadvantages of its very low rate of fire.
+Autopistols have the high rate of fire of assault rifles and carbines but use pistol ammo. This gives them a shorter range and less impact on the target, but they're cheaper to manufacture. Indeed, the use of pistol ammo allows them to be cheaply rearmed, as well.
 
-#### Hammond P2011
+**Models Include:** RE-45
 
-The Hammond P2011 is a semi-automatic handgun with good accuracy and damage at range. Its integrated 'match trigger' allows it to be fired very rapidly, which is useful in close quarters.
+* **Autopistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Auto-Fire; 350(R) credits; Enc 2; HP 2
 
-#### RE-45 Autopistol
+#### Heavy Revolver
 
-The RE-45 is a fully automatic .45 caliber pistol, sacrificing damage and accuracy at longer distances for improved effectiveness at close range.
+Heavy revolvers are popular with those who enjoy a big and intimidating weapon. Sidearms of this size are near impossible to conceal and are a perfect weapon for close in, vicious firefights.
 
-<table class="wide">
+**Models Include:** B3 Wingman
 
-<caption>Sidearms</caption>
-<thead>
-<tr>
-<th style="text-align:left">Name</th>
-<th style="text-align:left">Skill</th>
-<th style="text-align:center">Damage</th>
-<th style="text-align:center">Crit.</th>
-<th style="text-align:left">Range</th>
-<th style="text-align:center">Enc.</th>
-<th style="text-align:center">HP</th>
-<th style="text-align:right">Price</th>
-<th style="text-align:center">Rarity</th>
-<th style="text-align:left">Special</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">B3 Wingman</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Medium</td>
-<td style="text-align:center">2</td>
-<td style="text-align:center">1</td>
-<td style="text-align:right">500</td>
-<td style="text-align:center">3</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:left">Hammond P2011</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">4</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">1</td>
-<td style="text-align:right">150</td>
-<td style="text-align:center">3</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:left">RE-45 Autopistol</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">2</td>
-<td style="text-align:center">1</td>
-<td style="text-align:right">200</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Accurate 1, Limited Ammo 3</td>
-</tr>
-<tr>
-<td style="text-align:left">Smart pistol mk5</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">525</td>
-<td style="text-align:center">8</td>
-<td style="text-align:left">Guided 3, Special</td>
-</tr>
-</tbody>
-</table>
+* **Heavy Revolver:** Ranged (Light); Damage 7; Crit 3; Range (Medium); Inaccurate 1; Limited Ammo 4; 325 credits; Enc 2; HP 2
 
-#### Smart Pistol MK5
+#### Light Pistol
 
-The Smart Pistol scans for hostile targets within a short range, locking onto them automatically. Any rounds fired will then maneuver to hit the locked targets. Aiming with the iron sights allows the operator to use the pistol in manual targeting mode. Spare ammunition for the smart pistol is twice the price as normal ammo, 50 credits.
+Lightweight and easy to use due to low recoil, it doesn't have the same stopping power of its heavier brethren. The light materials and smaller size, however, makes it perfect for hiding on one's person and because of this it is a favorite of undercover operatives across the frontier. Anyone searching your character adds [S] to any Perception checks they make to find a light pistol.
+
+* **Light Pistol:** Ranged (Light); Damage 5; Crit 4; Range (Short); 200 credits; Enc 1; HP 0
+
+#### Pistol
+
+The ubiquitous pistol has seen very little change in the centuries since its introduction. This workhorse of the galaxy has seen use since the dawn of recorded history.
+
+**Models Include:** Hammond P2011, Hammond P2016, Hammond P2020
+
+* **Pistol:** Ranged (Light); Damage 6; Crit 3; Range (Medium); 400 credits; Enc 1; HP 1
+
+#### Smart Pistol
+
+Smart pistols are a fairly new addition to the battlefield. Using state-of-the-art guidance systems, it fires specialized ammo that has limited tracking capability. Not a fire-and-forget weapon like guided missiles but also not as complex or expensive. Each extra magazine for a smart pistol costs 100 credits.
+
+**Models Include:** Smart Pistol mk5, Smart Pistol mk6
+
+* **Smart Pistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Accurate 2, Reduced Magazine; 350(R) credits; Enc 1; HP 1
+
+
 
 ### Long-arms
 

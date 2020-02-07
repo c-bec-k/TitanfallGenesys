@@ -2,15 +2,15 @@
 
 ## New Qualities
 
-The following qualities are available to certain weapons in *Titanfall: Genesys*
+The following qualities are available to certain weapons in _Titanfall: Genesys_
 
 ### Arc
 
-Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending [AD][AD] (instead of the usual [AD][AD][AD]).
+Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending [AD][ad] (instead of the usual [AD][ad][AD]).
 
 ### Reduced Magazine
 
-Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DE]).
+Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][th][TH] (in addition to the normal [DE]).
 
 ## Weapons
 
@@ -22,25 +22,25 @@ Not all weapons are firearms. Sometimes you need to get up close and personal. F
 
 Brass knuckles are very simple weapons: chunks of brass designed to slip over your fingers and add power to your punches. Many ruffians and roughnecks use brass knuckles as a tool of intimidation but they are rarely seen on the battlefield. But when you're fighting against the IMC, you'll use any advantage you can get!
 
-* **Brass Knuckles:** Brawl; Damage +1; Cit 4; Range (Engaged); Disorient 2, Knockdown, Stun Damage (optional); 75 credits; Enc 1; HP 0
+- **Brass Knuckles:** Brawl; Damage +1; Cit 4; Range (Engaged); Disorient 2, Knockdown, Stun Damage (optional); 75 credits; Enc 1; HP 0
 
 #### Combat Knife
 
 The ubiquitous knife is easy to use, lightweight and one of the first weapons most soldiers learn to fight with. While they are used as a close-in weapon, more often than not they are used for survival purposes instead of killing people. Cutting down branches for a fire, carving makeshift weapons, and even a cooking/eating tool, it is found on most worlds in the Frontier.
 
-* **Combat Knife:** Melee; Damage +1; Crit 3; Range (Engaged); Accurate 1; 150 credits; Enc 1; HP 1
+- **Combat Knife:** Melee; Damage +1; Crit 3; Range (Engaged); Accurate 1; 150 credits; Enc 1; HP 1
 
 #### Longblade
 
 Longblades have been coming back into vogue since the first sight of a Titan carrying a sword of its own. Deadly and silent, this weapon is the preferred weapon of scouts and assassins alike.
 
-* **Longblade:** Melee; Damage +2; Crit 2; Range (Engaged); Defensive 1; 225 credits; Enc 1; HP 1
+- **Longblade:** Melee; Damage +2; Crit 2; Range (Engaged); Defensive 1; 225 credits; Enc 1; HP 1
 
 #### Stun Baton
 
 A favorite of those who wish to take a target alive, the stun baton is a baton with a small power cell that delivers a shock to those struck by it. As it is a simple enough weapon to manufacture there are a multitude of variants that range from a metal stick with a rubber handle to a composite alloy that extends and collapses for easy of storage.
 
-* **Stun Baton:** Melee; Damage +2; Crit 5; Range (Engaged); Disorient 3, Stun Damage; 125 credits; Enc 1; HP 1
+- **Stun Baton:** Melee; Damage +2; Crit 5; Range (Engaged); Disorient 3, Stun Damage; 125 credits; Enc 1; HP 1
 
 ### Sidearms
 
@@ -52,7 +52,7 @@ Autopistols have the high rate of fire of assault rifles and carbines but use pi
 
 **Models Include:** RE-45
 
-* **Autopistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Auto-Fire; 350(R) credits; Enc 2; HP 2
+- **Autopistol:** Ranged (Light); Damage 5; Crit 3; Range (Short); Auto-Fire, Reduced Magazine; 400(R) credits; Enc 2; HP 1
 
 #### Heavy Revolver
 
@@ -60,13 +60,13 @@ Heavy revolvers are popular with those who enjoy a big and intimidating weapon. 
 
 **Models Include:** B3 Wingman
 
-* **Heavy Revolver:** Ranged (Light); Damage 7; Crit 3; Range (Medium); Inaccurate 1; Limited Ammo 4; 325 credits; Enc 2; HP 2
+- **Heavy Revolver:** Ranged (Light); Damage 7; Crit 3; Range (Medium); Inaccurate 1; Limited Ammo 4; 325 credits; Enc 2; HP 2
 
 #### Light Pistol
 
 Lightweight and easy to use due to low recoil, it doesn't have the same stopping power of its heavier brethren. The light materials and smaller size, however, makes it perfect for hiding on one's person and because of this it is a favorite of undercover operatives across the frontier. Anyone searching your character adds [S] to any Perception checks they make to find a light pistol.
 
-* **Light Pistol:** Ranged (Light); Damage 5; Crit 4; Range (Short); 200 credits; Enc 1; HP 0
+- **Light Pistol:** Ranged (Light); Damage 5; Crit 4; Range (Short); 200 credits; Enc 1; HP 0
 
 #### Pistol
 
@@ -74,53 +74,85 @@ The ubiquitous pistol has seen very little change in the centuries since its int
 
 **Models Include:** Hammond P2011, Hammond P2016, Hammond P2020
 
-* **Pistol:** Ranged (Light); Damage 6; Crit 3; Range (Medium); 400 credits; Enc 1; HP 1
+- **Pistol:** Ranged (Light); Damage 6; Crit 3; Range (Medium); 400 credits; Enc 1; HP 1
 
 #### Smart Pistol
 
-Smart pistols are a fairly new addition to the battlefield. Using state-of-the-art guidance systems, it fires specialized ammo that has limited tracking capability. Not a fire-and-forget weapon like guided missiles but also not as complex or expensive. Each extra magazine for a smart pistol costs 100 credits.
+Smart pistols are a fairly new addition to the battlefield. Using state-of-the-art guidance systems, it fires specialized ammo that has limited tracking capability. Not a fire-and-forget weapon like guided missiles but also not as complex or expensive. When your character performs the aim maneuver, instead of adding [B] you instead add [SU] to the results of the combat check. Each extra magazine for a smart pistol costs 100 credits.
 
 **Models Include:** Smart Pistol mk5, Smart Pistol mk6
 
-* **Smart Pistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Accurate 2, Reduced Magazine; 350(R) credits; Enc 1; HP 1
-
-
+- **Smart Pistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Reduced Magazine; 500(R) credits; Enc 1; HP 1
 
 ### Long-arms
 
-#### C.A.R. SMG
+#### Anti-Materiel Rifles
 
-The C.A.R. (Combat Advanced Round)
-submachine gun is designed to fire a more powerful round that provides greater damage and accuracy at range, at the cost of fire rate and capacity.
+These rifles take the idea of the sniper rifle and crank it up to 11. Anti-material rifles are designed to take out lightly-armored vehicles. If they are ever used against infantry, the target doesn't stand a chance.
 
-#### EVA-8 Shotgun
+**Models include:** Kraber Armor Penetrating .50-cal Sniper Rifle
 
-The EVA-8 is a semi-automatic shotgun, originally designed for extra-vehicular activity, both in conventional and in exo-atmospheric conditions.
+* **Anti-Materiel Rifle:** Ranged (Heavy); Damage 12; Crit 2; Range (Extreme); Cumbersome 3, Pierce 5, Slow-Firing 1; 2,300(R) credits; Enc 5; HP 2
 
-#### G2A4 Battle Rifle
+#### Assault Rifle
 
-Despite recent advances in weapons technology, the older
-G2A4 semi-automatic rifle remains a favorite of special forces units due to its high damage and extremely precise fire—a testament to its high level of craftsmanship.
+Assault rifles are the mainstay of modern militaries. Lightweight, good range, and able to fire numerous medium-calibre rounds with one pull of the trigger. These weapons are extremely deadly in the right hands.
 
-#### Hemlok BF-R
+**Models include:** R-201 Assault Rife, M1A3 Hemlok, V-47 Flatline
 
-The factory issue Hemlok fires a three-round burst. While this can be a liability at short range, this tradeoff allowed the engineers at TW Ordnance to deliver a weapon with a good balance of long-range accuracy, damage, and fire rate.
+- **Assault Rifle:** Ranged (Heavy); Damage 8; Crit 3; Range (Long); Auto-Fire; 1,200(R) credits; Enc 4; HP 2
 
-#### Kraber-AP Sniper
+#### Battle Rifle
 
-The Kraber fires a unique round that ensures 'one-shot, one-kill' results against human-scale targets. However, considerable judgement in leading is required, making this a difficult weapon to use against moving targets.
+A battle rifle is a weapon that chambers a large calibre round, as opposed to the smaller calibre rounds of pistols and SMGs or the medium calibre rounds of assault rifles and carbines. While most are capable of fully-automatic fire the recoil makes it very prohibitive to do so. Therefore, most battle rifles are single-shot weapons.
 
-#### Longbow DMR
+**Models include:** G2A4 Battle Rifle, G2A5 Battle Rifle, G7 Scout
 
-The D-101 Longbow-DMR is a semi-automatic sniper rifle. Its hyper-velocity round completely eliminates the need to lead targets, and allows the shooter to fire multiple shots quickly in succession.
+- **Battle Rifle:** Ranged (Heavy); Damage 9; Crit 3; Range (Long); Accurate 1, Reduced Magazine; 900 credits; Enc 4; HP 2
 
-#### R-101c Carbine
+#### Carbine
 
-The R-101C is a fully automatic, compact assault weapon commonly used throughout the Frontier.
+Carbines are a close cousin to the assault rifle. Whereas assault rifles have a longer range, carbines are designed for closer engagements.
 
-#### R-97 Compact SMG
+**Models include:** R-101 Compact Carbine, R-301 Carbine
 
-The R-97 is a compact submachine gun that excels at close-quarters combat, due to its extremely high rate of fire and minimal recoil. 
+- **Carbine:** Ranged (Heavy); Damage 7; Crit 3; Range (Medium); Accurate 1, Auto-Fire; 800 credits; Enc 3; HP 1
+
+#### Shotgun
+
+Shotguns are short-ranged weapons that fire a cartridge of 'shot': a bunch of tiny balls of a variety of materials. The end result is a lot of holes in your target. Historically used for sport shooting and hunting, the ready availability of them makes it a common sight in the hands of the Militia.
+
+**Models Include:** EVA-8, M1901 Mastiff
+
+* **Shotgun:** Ranged (Heavy); Damage 8; Crit 3; Range (Short); Accurate 1, Knockdown, Vicious 2; 1,000 credits; Enc 3; HP 2
+
+### Sniper Rifle
+
+A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at range. The elusive "one shot, one kill" weapon that is the bane of infantry everywhere. While effective at long range, it does take time to line up a shot, which makes it less than ideal in close-in fighting.
+
+**Models include:** D-101 Longbow Designated Marksman Rifle, D-2 Double Take
+
+* **Sniper Rifle:** Ranged (Heavy); Damage 10; Crit 2; Range (Extreme); Accurate 2, Limited Ammo 3, Pierce 2, Prepare 1; 1,800(R) credits; Enc 4; HP 2
+
+### Submachine Guns
+
+Submachine guns, or SMGs for short, are a compromise between auto-pistols and carbines. not as accurate as a carbine but a longer range than an autopistol, these weapon still use the smaller pistol-calibre ammo. Even though these weapons are designed to be used two-handed, it is possible to fire it with just one. If your character uses Ranged (Light) instead of Ranged (Heavy) increase the difficulty of the combat check by 1.
+
+**Models include:** Alternator, CAR (Combat Advanced Round Submachine Gun), R-97, R-99, Volt
+
+* **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700 (R) credits; Enc 3; HP 2
+
+## Fire Support and Anti-Titan Weapons
+
+When the enemy comes at you in giant robots bristling with guns, most people run away. The Frontier Militia, however, charges headlong at the Titans with weapons specifically designed to destroy them.
+
+### Anti-Titan Missile
+
+### Directed Energy Weapon
+
+### Grenade Launcher
+
+### Light Machine Gun
 
 #### Spitfire LMG
 
@@ -136,9 +168,7 @@ The Arc Grenade is a grenade type employed by infantry of the IMC and Militia. W
 
 #### Arc Mine
 
-The Arc Mine is a proximity mine that can stick
-on any surface. It takes 1 second after sticking to
-something to arm. Arc Mines won't explode until an enemy Pilot, Titan, Grunt or Spectre enter the mine's range.
+The Arc Mine is a proximity mine that can stick on any surface. It takes 1 second after sticking to something to arm. Arc Mines won't explode until an enemy Pilot, Titan, Grunt or Spectre enter the mine's range.
 
 #### Electric Smoke Grenade
 
@@ -170,11 +200,7 @@ The Archer fires a powerful homing rocket. It must be locked onto a target befor
 
 The Charge Rifle fires an energy beam that inflicts massive damage. Holding the trigger charges the weapon. Timing is critical to its use: this weapon will only fire when it reaches full charge, and it will discharge automatically as soon as it hits full charge.
 
-
-<table class="wide"  style="margin-top:4em;">
-
 <caption>Long-arms</caption>
-
 <thead>
 <tr>
 <th style="text-align:left">Name</th>
@@ -189,103 +215,6 @@ The Charge Rifle fires an energy beam that inflicts massive damage. Holding the 
 <th style="text-align:left">Special</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td style="text-align:left">C.A.R. SMG</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">7</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Medium</td>
-<td style="text-align:center">3</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">500</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Accurate 2, Limited Ammo 2</td>
-</tr>
-<tr>
-<td style="text-align:left">EV-8 Shotgun</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">3</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">750</td>
-<td style="text-align:center">4</td>
-<td style="text-align:left">Blast 6, Knockdown, Reduced Magazine</td>
-</tr>
-<tr>
-<td style="text-align:left">G2A4 Battle Rifle</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">4</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">950</td>
-<td style="text-align:center">5</td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align:left">Hemlock BF-R</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">4</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">1,000</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Accurate 1</td>
-</tr>
-<tr>
-<td style="text-align:left">Kraber</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">12</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Extreme</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">3</td>
-<td style="text-align:right">2,000</td>
-<td style="text-align:center">8</td>
-<td style="text-align:left">Accurate 2, Limited Ammo 1, Pierce 2</td>
-</tr>
-<tr>
-<td style="text-align:left">Longbow DMR</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">9</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">4</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">1,000</td>
-<td style="text-align:center">5</td>
-<td style="text-align:left">Accurate 1</td>
-</tr>
-<tr>
-<td style="text-align:left">R-101c Carbine</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">4</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">1,200</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Auto-fire</td>
-</tr>
-<tr>
-<td style="text-align:left">R-97 SMG</td>
-<td style="text-align:left">Ranged (Heavy)</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">3</td>
-<td style="text-align:center">2</td>
-<td style="text-align:right">700</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Auto-fire, Accurate 1</td>
-</tr>
 <tr>
 <td style="text-align:left">Spitfire LMG</td>
 <td style="text-align:left">Gunnery</td>
@@ -420,12 +349,12 @@ Made from lightweight polymers and ballistic fabrics, this armour provides decen
 
 Not a form of combat armour, but a well-made jacket does provide limited protection.
 
-| Type | Defense | Soak |  Enc. | HP | Price | Rarity
-| :--  | :--:    | :--: | :--:  |:--:| --:   | :--:
-| Armoured&nbsp;Carapace |1 |+2 |4 |3 |850 |6
-|Cloaking&nbsp;Device |2 |+0 |2 |1 |600 |7
-|Flak&nbsp;Vest |0 |+2 |3 |2 |500 |5
-| Heavy&nbsp;Jacket |0 |+1 |1 |0 |35 |1
+| Type                   | Defense | Soak | Enc. | HP  | Price | Rarity |
+| :--------------------- | :-----: | :--: | :--: | :-: | ----: | :----: |
+| Armoured&nbsp;Carapace |    1    |  +2  |  4   |  3  |   850 |   6    |
+| Cloaking&nbsp;Device   |    2    |  +0  |  2   |  1  |   600 |   7    |
+| Flak&nbsp;Vest         |    0    |  +2  |  3   |  2  |   500 |   5    |
+| Heavy&nbsp;Jacket      |    0    |  +1  |  1   |  0  |    35 |   1    |
 
 <table class='wide' style="margin-top:-30em;">
 <caption>Anti-Titan Weapons</caption>
@@ -519,17 +448,17 @@ An encrypted version of the comm-bead is also available. Any attempt to hack int
 
 #### Cybernetics
 
-See *Genesys* Core Rulebook page 177.
+See _Genesys_ Core Rulebook page 177.
 
 #### Extra Magazine
 
 This is exactly what it sounds like: an extra magazine of ammunition for a ranged weapon.
 
-If your character has an extra magazine, they may spend a maneuver to reload and continue to use their weapon if it runs out of ammo. This uses up the extra magazine. (You  can’t use this to reload weapons with the Limited Ammo quality, as they usually have special costs for their reloads or are one-use weapons.)
+If your character has an extra magazine, they may spend a maneuver to reload and continue to use their weapon if it runs out of ammo. This uses up the extra magazine. (You can’t use this to reload weapons with the Limited Ammo quality, as they usually have special costs for their reloads or are one-use weapons.)
 
 #### First Aid Kit
 
-A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][TH][TH] or [DE] means your character has used all of the kit's supplies.
+A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][th][TH] or [DE] means your character has used all of the kit's supplies.
 
 #### Jump Kit
 
@@ -539,17 +468,17 @@ When armed with a jump kit, upgrade all Athletics checks to climb and jump once 
 
 #### Night Optics
 
-These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][S] added to their checks due to darkness.
+These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][s] added to their checks due to darkness.
 
 #### Painkillers
 
-See page 94 of the *Genesys* Core Rulebook.
+See page 94 of the _Genesys_ Core Rulebook.
 
 #### Panacea
 
 This liquid cocktail of adrenaline and various pharmaceutical drugs is used to temporarily enhance awareness and promote localized healing. The panacea is stored in a one-use syringe that is quickly injected to the subject.
 
-When making a Medicine check, your character may use a panacea to add automatic [SU][AD] to the results. The panacea is consumed when used.
+When making a Medicine check, your character may use a panacea to add automatic [SU][ad] to the results. The panacea is consumed when used.
 
 #### Portable Medkit
 
@@ -561,7 +490,7 @@ A portable medkit allows your character to perform Medicine checks to heal wound
 
 the pulse blade can be thrown and provides a brief sonar pulse that can detect enemies even through walls.
 
-As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released. 
+As an action, a character may make an **Average ([D][d]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
 
 The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
 
@@ -574,55 +503,55 @@ by 1.
 
 <caption>Gear</caption>
 
-|Item | Enc. | Price | Rarity
-|:--  | :--: | --:   | :--:
-|Backpack |+4 |50 |3
-|Combat Harness |+2 |100 |3
-|Comm-Bead |0 |25 |1 
-|Comm-Bead, encrypted |0 |2,000 |5
-|Extra Magazine | 0 | 25| 2
-|First Aid Kit |1 |100 |3 
-|Jump Kit |2 |1,000 |7
-|Night Optics |0 |500 |5
-|Painkillers |0 |25 |2
-|Panacea |0 |50 |6
-|Portable Medkit |2 |200 |4
-|Pulse Blade |1 |150 |5
-|Utility Belt |+1 |25 |0
+| Item                 | Enc. | Price | Rarity |
+| :------------------- | :--: | ----: | :----: |
+| Backpack             |  +4  |    50 |   3    |
+| Combat Harness       |  +2  |   100 |   3    |
+| Comm-Bead            |  0   |    25 |   1    |
+| Comm-Bead, encrypted |  0   | 2,000 |   5    |
+| Extra Magazine       |  0   |    25 |   2    |
+| First Aid Kit        |  1   |   100 |   3    |
+| Jump Kit             |  2   | 1,000 |   7    |
+| Night Optics         |  0   |   500 |   5    |
+| Painkillers          |  0   |    25 |   2    |
+| Panacea              |  0   |    50 |   6    |
+| Portable Medkit      |  2   |   200 |   4    |
+| Pulse Blade          |  1   |   150 |   5    |
+| Utility Belt         |  +1  |    25 |   0    |
 
 ## Item Attachments
 
-Item attachments follow the rules on pages 206–209 of the *Genesys* Core Rulebook. Many of the attachments in that section are available in *Titanfall: Genesys* as well as new attachments described below.
+Item attachments follow the rules on pages 206–209 of the _Genesys_ Core Rulebook. Many of the attachments in that section are available in _Titanfall: Genesys_ as well as new attachments described below.
 
 ### Weapon Attachments
 
-The following weapon attachments are available to characters in the *Titanfall: Genesys* setting. In addition, several attachments from the *Genesys* Core Rulebook are available.
+The following weapon attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
 
 <caption>Weapon Attachments</caption>
 
-|Attachment | HP Required | Price | Rarity
-| :--       | :--:        | --:   | :--:
-|Bipod Mount |1 |250 |2
-|*Dataspike* |1 |500 |6
-|*Enhanced Targeting Algorithm* |1 |800 |7
-|Extended barrel |2 |1,000 |4
-|Hair Trigger |1 |150 |3
-|*Holosight* |1 |500| 4
-|*Laser Sight* |1 |500 |5
-|*Silencer* |1 |100 |5
-|Superior Customization |1 |750 |7
-|Telescopic Sight |1 |200 |3
-|Tripod Mount |2 |400 |3
-|Under-barrel Weapon |2 |Varies |Varies
-|Weapon sling |1 |250 |1
+| Attachment                     | HP Required |  Price | Rarity |
+| :----------------------------- | :---------: | -----: | :----: |
+| Bipod Mount                    |      1      |    250 |   2    |
+| _Dataspike_                    |      1      |    500 |   6    |
+| _Enhanced Targeting Algorithm_ |      1      |    800 |   7    |
+| Extended barrel                |      2      |  1,000 |   4    |
+| Hair Trigger                   |      1      |    150 |   3    |
+| _Holosight_                    |      1      |    500 |   4    |
+| _Laser Sight_                  |      1      |    500 |   5    |
+| _Silencer_                     |      1      |    100 |   5    |
+| Superior Customization         |      1      |    750 |   7    |
+| Telescopic Sight               |      1      |    200 |   3    |
+| Tripod Mount                   |      2      |    400 |   3    |
+| Under-barrel Weapon            |      2      | Varies | Varies |
+| Weapon sling                   |      1      |    250 |   1    |
 
 ### Dataspike
 
 The Dataspike is a tool used to hack into enemy Spectres, turrets or other computing devices. It has an on-board AI programmed specifically to hack into enemy computers. \
 **Use With:** The dataspike is specifically designed to be used with the combat knife. \
-**Modifiers:** Dataspikes can perform Computers checks for a player with a Computers skill of 2 and an Intellect of 0. If unassisted it rolls [A][A] for Computers checks (see pages 26—27 of the *Genesys* Core Rulebook for rules on assisted checks). \
+**Modifiers:** Dataspikes can perform Computers checks for a player with a Computers skill of 2 and an Intellect of 0. If unassisted it rolls [A][a] for Computers checks (see pages 26—27 of the _Genesys_ Core Rulebook for rules on assisted checks). \
 **Hard Points Required:** 1 \
 **Price:** 500
 
@@ -638,7 +567,7 @@ While most guided weaponry is good as-is, many users tweak the targeting code to
 
 This device projects a hologram of a crosshair a meter or so in front of the barrel to aid in aiming the weapon. Unfortunately that also makes it easier to spot the shooter. \
 **Use With:** Any firearm can have a holosight added. \
-**Modifiers:** The shooter may aim as an incidental once per round at a target up to medium range. If the holosight is used, reduce any concealment dice the target is benefiting from by 1 until the beginning of the character's next turn (see page 110 of the *Genesys* Core Rulebook for concealment rules). \
+**Modifiers:** The shooter may aim as an incidental once per round at a target up to medium range. If the holosight is used, reduce any concealment dice the target is benefiting from by 1 until the beginning of the character's next turn (see page 110 of the _Genesys_ Core Rulebook for concealment rules). \
 **Hard Points Required:** 1 \
 **Price:** 500
 
@@ -654,28 +583,28 @@ A simple and lower-tech solution than most on the Frontier are used to, it is a 
 
 A silencer makes it harder for others to pinpoint the location of shots made with the weapon it is attached to. \
 **Use With:** Any firearm can have a silencer attached. \
-**Modifiers:** Adds [S][S] to any Perception or Vigilance checks to locate the shooter firing the weapon. \
+**Modifiers:** Adds [S][s] to any Perception or Vigilance checks to locate the shooter firing the weapon. \
 **Hard Points Required:** 1 \
 **Price:** 100
 
 ## Armour Attachments
 
-The following armour attachments are available to characters in the *Titanfall: Genesys* setting. In addition, several attachments from the *Genesys* Core Rulebook are available.
+The following armour attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
 
 <caption>Armour Attachments</caption>
 
-|Attachment | HP Required | Price | Rarity
-| :--       | :--:        | --:   | :--:
-|Deflective Plating |1 |450 |4
-|Enhanced Lifting Servos |2 |1,500 |5
-|*Extra Emitters* |1 |2,000 |6
-|*Extra Padding* |1 |300 |6
-|*Grapple Launcher* |2 |350 |3
-|Reinforced Plating |2 |8,000 |7
-|*Stim Injectors* |1 |2,500 |5
-|Vacuum Sealed |1 |600 |4
+| Attachment              | HP Required | Price | Rarity |
+| :---------------------- | :---------: | ----: | :----: |
+| Deflective Plating      |      1      |   450 |   4    |
+| Enhanced Lifting Servos |      2      | 1,500 |   5    |
+| _Extra Emitters_        |      1      | 2,000 |   6    |
+| _Extra Padding_         |      1      |   300 |   6    |
+| _Grapple Launcher_      |      2      |   350 |   3    |
+| Reinforced Plating      |      2      | 8,000 |   7    |
+| _Stim Injectors_        |      1      | 2,500 |   5    |
+| Vacuum Sealed           |      1      |   600 |   4    |
 
 ### Extra Emitters
 
@@ -696,7 +625,7 @@ This attachment adds a layer of padding to the cloaking device to help absorb th
 
 The grapple launcher has a weighted head designed to pierce and hold firm to any solid surface. It allows the wearer to traverse longer distances than normal—even straight up! Whether you're trying to get away, close the distance or get in or out of a secure site in a hurry, the grapple launcher is just what you need. Some crazy pilots even use it to rodeo a Titan! \
 **Use With:** This attachment can be applied to any armor. \
-**Modifiers:** As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the grapple launcher on any solid object within short range. On a success, they may, as a maneuver, reel in the cord and pull themselves towards the the object. If the object is unsecured, it instead is pulled to the character. \
+**Modifiers:** As an action, a character may make an **Average ([D][d]) Ranged (Light) check** to secure the grapple launcher on any solid object within short range. On a success, they may, as a maneuver, reel in the cord and pull themselves towards the the object. If the object is unsecured, it instead is pulled to the character. \
 **Hard Points Required:** 2 \
 **Price:** 350
 

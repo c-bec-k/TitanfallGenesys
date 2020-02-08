@@ -34,7 +34,7 @@ The ubiquitous knife is easy to use, lightweight and one of the first weapons mo
 
 Longblades have been coming back into vogue since the first sight of a Titan carrying a sword of its own. Deadly and silent, this weapon is the preferred weapon of scouts and assassins alike.
 
-- **Longblade:** Melee; Damage +2; Crit 2; Range (Engaged); Defensive 1; 225 credits; Enc 1; HP 1
+- **Longblade:** Melee; Damage +2; Crit 2; Range (Engaged); Defensive 1; 225 credits; Enc 2; HP 1
 
 #### Stun Baton
 
@@ -90,7 +90,7 @@ Smart pistols are a fairly new addition to the battlefield. Using state-of-the-a
 
 These rifles take the idea of the sniper rifle and crank it up to 11. Anti-material rifles are designed to take out lightly-armored vehicles. If they are ever used against infantry, the target doesn't stand a chance.
 
-**Models include:** Kraber Armor Penetrating .50-cal Sniper Rifle
+**Models Include:** Kraber Armor Penetrating .50-cal Sniper Rifle
 
 * **Anti-Materiel Rifle:** Ranged (Heavy); Damage 12; Crit 2; Range (Extreme); Cumbersome 3, Pierce 5, Slow-Firing 1; 2,300(R) credits; Enc 5; HP 2
 
@@ -98,7 +98,7 @@ These rifles take the idea of the sniper rifle and crank it up to 11. Anti-mater
 
 Assault rifles are the mainstay of modern militaries. Lightweight, good range, and able to fire numerous medium-calibre rounds with one pull of the trigger. These weapons are extremely deadly in the right hands.
 
-**Models include:** R-201 Assault Rife, M1A3 Hemlok, V-47 Flatline
+**Models Include:** R-201 Assault Rife, M1A3 Hemlok, V-47 Flatline
 
 - **Assault Rifle:** Ranged (Heavy); Damage 8; Crit 3; Range (Long); Auto-Fire; 1,200(R) credits; Enc 4; HP 2
 
@@ -106,7 +106,7 @@ Assault rifles are the mainstay of modern militaries. Lightweight, good range, a
 
 A battle rifle is a weapon that chambers a large calibre round, as opposed to the smaller calibre rounds of pistols and SMGs or the medium calibre rounds of assault rifles and carbines. While most are capable of fully-automatic fire the recoil makes it very prohibitive to do so. Therefore, most battle rifles are single-shot weapons.
 
-**Models include:** G2A4 Battle Rifle, G2A5 Battle Rifle, G7 Scout
+**Models Include:** G2A4 Battle Rifle, G2A5 Battle Rifle, G7 Scout
 
 - **Battle Rifle:** Ranged (Heavy); Damage 9; Crit 3; Range (Long); Accurate 1, Reduced Magazine; 900 credits; Enc 4; HP 2
 
@@ -114,7 +114,7 @@ A battle rifle is a weapon that chambers a large calibre round, as opposed to th
 
 Carbines are a close cousin to the assault rifle. Whereas assault rifles have a longer range, carbines are designed for closer engagements.
 
-**Models include:** R-101 Compact Carbine, R-301 Carbine
+**Models Include:** R-101 Compact Carbine, R-301 Carbine
 
 - **Carbine:** Ranged (Heavy); Damage 7; Crit 3; Range (Medium); Accurate 1, Auto-Fire; 800 credits; Enc 3; HP 1
 
@@ -130,7 +130,7 @@ Shotguns are short-ranged weapons that fire a cartridge of 'shot': a bunch of ti
 
 A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at range. The elusive "one shot, one kill" weapon that is the bane of infantry everywhere. While effective at long range, it does take time to line up a shot, which makes it less than ideal in close-in fighting.
 
-**Models include:** D-101 Longbow Designated Marksman Rifle, D-2 Double Take
+**Models Include:** D-101 Longbow Designated Marksman Rifle, D-2 Double Take
 
 * **Sniper Rifle:** Ranged (Heavy); Damage 10; Crit 2; Range (Extreme); Accurate 2, Limited Ammo 3, Pierce 2, Prepare 1; 1,800(R) credits; Enc 4; HP 2
 
@@ -138,25 +138,65 @@ A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at r
 
 Submachine guns, or SMGs for short, are a compromise between auto-pistols and carbines. not as accurate as a carbine but a longer range than an autopistol, these weapon still use the smaller pistol-calibre ammo. Even though these weapons are designed to be used two-handed, it is possible to fire it with just one. If your character uses Ranged (Light) instead of Ranged (Heavy) increase the difficulty of the combat check by 1.
 
-**Models include:** Alternator, CAR (Combat Advanced Round Submachine Gun), R-97, R-99, Volt
+**Models Include:** Alternator, CAR (Combat Advanced Round Submachine Gun), R-97, R-99, Volt
 
-* **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700 (R) credits; Enc 3; HP 2
+* **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700(R) credits; Enc 3; HP 2
 
 ## Fire Support and Anti-Titan Weapons
 
 When the enemy comes at you in giant robots bristling with guns, most people run away. The Frontier Militia, however, charges headlong at the Titans with weapons specifically designed to destroy them.
 
-### Anti-Titan Missile
+### Anti-Titan Warheads
+
+The latest in fire-and-forget anti-armor weapons, anti-titan missiles are man-portable weapons that lock onto any large vehicle–not just Titans. It does require some time to acquire the lock, however, so they are best used when behind cover and at range. Note that the Guided quality only applies against vehicular targets. Extra ammo for this weapon costs 3,000(R) credits.
+
+There are also unguided anti-Titan rockets. Due to the dumb-fire nature of these weapons, however, they have been miniaturized and fielded in a rapid-fire weapon. 
+
+**Models Include:** Archer Heavy Rocket, Sidewinder AT-SMR
+
+- **Anti-titan missile:** Gunnery; Damage 20; Crit 3; Range (Extreme); Blast 10, Breach 2, Cumbersome 3, Guided 3, Limited Ammo 1, Prepare 1; 7,000(R) credits; Enc 8; HP 4
+
+- **Anti-Titan Mini Rocket Launcher:** Gunnery; Damage 18; Crit 2; Range(Medium); Auto-fire, Breach 1, Cumbersome 2, Inaccurate 1, Limited Ammo 3, Vicious 1; 4,275(R); Enc 6; HP 3
 
 ### Directed Energy Weapon
 
+These weapons are large-scale lasers that direct a beam of energy in order to cause extreme damage to a target. The intensity of the energy beam means that it can punch through even the thickest armor and cause some serious damage to any system unlucky enough to be struck. But the focused nature of the beam means it doesn't cause as grievous of damage as other, less precise weapons.
+
+**Models Include:** Charge rifle
+
+- **Directed Energy Weapon:** Gunnery; Damage 9; Crit 2; Range (Extreme); Accurate 1, Breach 2, Cumbersome 2, Slow-Firing 1, Vicious 2; 3,425(R) credits; Enc 7; HP 3
+
 ### Grenade Launcher
+
+These weapons are designed to fire specially-designed grenade ordinance at longer ranges than one can throw them. Because of the aerodynamics required to be shot at long ranges, you use any grenade, but special rounds designed specifically for this weapon.
+
+There is a special anti-Titan grenade launcher that fires magnetic grenades designed to stick to armored targets to aim a shaped-charge at the vital internal components. These 'mag' launchers are a different weapon than the anit-infantry variants.
+
+**Models Include:** EPG-1, EM-4 Cold War, R-6P Softball, MGL
+
+- **Grenade Launcher:** Gunnery; Damage 8; Crit 4; Range (Long); Blast 6, Inaccurate 2, Limited Ammo 5; 800(R) credits; Enc 5; HP 2
+
+- **Mag Launcher:** Gunnery; Damage 12; Crit 3; Range (Long); Accurate 2, Breach 2; 3,450(R) credits; Enc 6; HP 2
 
 ### Light Machine Gun
 
-#### Spitfire LMG
+Light machine guns are the heaviest man-portable squad automatic weapons. While heavy, these weapons can mow down infantry if used by anyone with even a modicum of skill. Because of their lethality, however, they are favorite targets on the battlefield.
 
-The Spitfire Light Machine Gun recoils heavily when first fired, but quickly settles into a tight firing pattern. The manufacturer strongly recommends sustained saturating fire, instead of short controlled bursts.
+**Models Include:** L-STAR, M600 Spitfire, X-55 Devotion
+
+- **Light Machine Gun:** Gunnery; Damage 10; Crit 3; Range (Long); Auto-fire, Cumbersome 2, Pierce 2, Vicious 2; 2,000(R) credits; Enc 6; HP3
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Pilot Ordnance
 
@@ -190,45 +230,6 @@ Satchel Charges stick to any surface and are manually detonated, causing massive
 
 As an action you may place up to two charges within Engaged range. As an out-of-turn incidental you may detonate the charges, making an Engineering combat check against the target.
 
-### Anti-Titan Weapons
-
-#### Archer Heavy Rocket
-
-The Archer fires a powerful homing rocket. It must be locked onto a target before it can be fired.When aimed, a targeting window flips out, allowing target acquisition. Hold this window over the target continuously until a lock is achieved, then fire. The Guided quality can only be activated when attacking targets made of significant metal content, like Titans and Spectres. Reload rockets for the Archer cost 3,000 credit.
-
-#### Charge Rifle
-
-The Charge Rifle fires an energy beam that inflicts massive damage. Holding the trigger charges the weapon. Timing is critical to its use: this weapon will only fire when it reaches full charge, and it will discharge automatically as soon as it hits full charge.
-
-<caption>Long-arms</caption>
-<thead>
-<tr>
-<th style="text-align:left">Name</th>
-<th style="text-align:left">Skill</th>
-<th style="text-align:center">Damage</th>
-<th style="text-align:center">Crit.</th>
-<th style="text-align:left">Range</th>
-<th style="text-align:center">Enc.</th>
-<th style="text-align:center">HP</th>
-<th style="text-align:right">Price</th>
-<th style="text-align:center">Rarity</th>
-<th style="text-align:left">Special</th>
-</tr>
-</thead>
-<tr>
-<td style="text-align:left">Spitfire LMG</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">10</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">3</td>
-<td style="text-align:right">1,900</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Auto-fire, Cumbersome 3, Pierce 2, Vicious 2</td>
-</tr>
-</tbody>
-</table>
 
 <table class='wide'>
 <caption>Pilot Ordnance</caption>
@@ -323,13 +324,6 @@ The Charge Rifle fires an energy beam that inflicts massive damage. Holding the 
 </tbody>
 </table>
 
-#### Mag Launcher
-
-The Mag Launcher fires magnetic grenades. When fired, the grenades will veer towards nearby enemy Titans and Spectres, and detonate on impact. The Accurate quality can only be activated when attacking targets made of significant metal content, like Titans and Spectres.
-
-#### Sidewinder
-
-The Sidewinder is a rapid-fire micro-missile launcher. It is effective against large targets, but lacks precision due to its large spread. The micro-missiles it fires do not yield a large area effect on detonation, due to their shaped-charge design.
 
 ## Armour
 
@@ -355,74 +349,6 @@ Not a form of combat armour, but a well-made jacket does provide limited protect
 | Cloaking&nbsp;Device   |    2    |  +0  |  2   |  1  |   600 |   7    |
 | Flak&nbsp;Vest         |    0    |  +2  |  3   |  2  |   500 |   5    |
 | Heavy&nbsp;Jacket      |    0    |  +1  |  1   |  0  |    35 |   1    |
-
-<table class='wide' style="margin-top:-30em;">
-<caption>Anti-Titan Weapons</caption>
-<thead>
-<tr>
-<th style="text-align:left">Name</th>
-<th style="text-align:left">Skill</th>
-<th style="text-align:center">Damage</th>
-<th style="text-align:center">Crit.</th>
-<th style="text-align:left">Range</th>
-<th style="text-align:center">Enc.</th>
-<th style="text-align:center">HP</th>
-<th style="text-align:right">Price</th>
-<th style="text-align:center">Rarity</th>
-<th style="text-align:left">Special</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">Archer&nbsp;Rocket</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">30</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Extreme</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">4</td>
-<td style="text-align:right">10,525</td>
-<td style="text-align:center">8</td>
-<td style="text-align:left">Blast 20, Breach 2, Cumbersome 3, Guided 3, Limited Ammo 1, Prepare 1</td>
-</tr>
-<tr>
-<td style="text-align:left">Charge Rifle</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">9</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Extreme</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">4</td>
-<td style="text-align:right">3,250</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Accurate 1, Breach 2, Cumbersome 2, Slow-Firing 1, Vicious 2</td>
-</tr>
-<tr>
-<td style="text-align:left">Mag&nbsp;Launcher</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">12</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Long</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">3</td>
-<td style="text-align:right">3,450</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Accurate 2, Breach 2, Special</td>
-</tr>
-<tr>
-<td style="text-align:left">Sidewinder</td>
-<td style="text-align:left">Gunnery</td>
-<td style="text-align:center">18</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Medium</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">3</td>
-<td style="text-align:right">5,075</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Auto-fire, Breach 2, Cumbersome 2, Inaccurate 1, Limited Ammo 3, Vicious 1</td>
-</tr>
-</tbody>
-</table>
 
 ## Items
 

@@ -186,144 +186,27 @@ Light machine guns are the heaviest man-portable squad automatic weapons. While 
 
 - **Light Machine Gun:** Gunnery; Damage 10; Crit 3; Range (Long); Auto-fire, Cumbersome 2, Pierce 2, Vicious 2; 2,000(R) credits; Enc 6; HP3
 
+### Explosives and Ordinance
 
-
-
-
-
-
-
-
-
-
-
-
-### Pilot Ordnance
-
-Ordnance usually refers to grenades, but some pilots like to carry around things that make a slightly bigger 'boom'.
+Sometimes guns just aren't enough. When you need to clear a room or flush someone out of cover you turn to grenades to get the job done.
 
 #### Arc Grenade
 
 The Arc Grenade is a grenade type employed by infantry of the IMC and Militia. When activated, the Arc Grenade explodes in a blast of Arc energy capable of short circuiting and dealing heavy damage to robotic units and equipment such as Titans, Spectres, Stalkers, HUDs and optical equipment found within the helmet of a Pilot and Reapers.
 
-#### Arc Mine
-
-The Arc Mine is a proximity mine that can stick on any surface. It takes 1 second after sticking to something to arm. Arc Mines won't explode until an enemy Pilot, Titan, Grunt or Spectre enter the mine's range.
-
-#### Electric Smoke Grenade
-
-A pilot-portable version of the Titan defense system, this “grenade” is designed to obscure an area and disperse pilots in an entrenched position.
-
-The cloud creates two dice worth of concealment and completely negates the Guided weapon quality on any attack against a target within the cloud or if the weapon must target through the cloud.
+- **Arc Grenade:** Ranged (Light); Damage 5; Crit 4; Range (Short); Arc, Blast 4, Disorient 2, Limited Ammo 1, Stun Damage; 60 credits; Enc 1; HP 0
 
 #### Firestar
 
 The firestar is an incendiary throwing star that creates thermite on impact. It will stick to surfaces and enemies alike.
 
+- **Firestar:** Ranged (Light); Damage 8; Crit 3; Range (Short); Burn 1, Limited Ammo 1; 100(R) credits; Enc 1; HP 0
+
 #### Frag Grenade
 
-The basic explosive device known to all modern soldiers, the Frag Grenade is still an incredibly useful weapon.
+These grenades are a small explosive core surrounding a fragile shell of ceramic and other materials that fragment easily to create a cloud of deadly shrapnel in the blast radius.
 
-#### Satchel Charge
-
-Satchel Charges stick to any surface and are manually detonated, causing massive explosive damage to anything nearby. Like mines, satchel charges are set and triggered to explode. Unlike a mine, however, you must trigger them yourself.
-
-As an action you may place up to two charges within Engaged range. As an out-of-turn incidental you may detonate the charges, making an Engineering combat check against the target.
-
-
-<table class='wide'>
-<caption>Pilot Ordnance</caption>
-
-<thead>
-<tr>
-<th style="text-align:left">Name</th>
-<th style="text-align:left">Skill</th>
-<th style="text-align:center">Damage</th>
-<th style="text-align:center">Crit.</th>
-<th style="text-align:left">Range</th>
-<th style="text-align:center">Enc.</th>
-<th style="text-align:center">HP</th>
-<th style="text-align:right">Price</th>
-<th style="text-align:center">Rarity</th>
-<th style="text-align:left">Special</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">Arc Grenade</td>
-<td style="text-align:left">Ranged&nbsp;(Light)</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">4</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">60</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left"> Arc, Blast 4, Disorient 2, Limited Ammo 1, Stun Damage</td>
-</tr>
-<tr>
-<td style="text-align:left">Arc Mine</td>
-<td style="text-align:left">Mechanics</td>
-<td style="text-align:center">6</td>
-<td style="text-align:center">4</td>
-<td style="text-align:left">Engaged</td>
-<td style="text-align:center">3</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">70</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Arc, Blast 5, Disorient 2, Limited Ammo 1, Stun Damage</td>
-</tr>
-<tr>
-<td style="text-align:left">Electric Smoke Grenade</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">4</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">50</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Blast 3, Disorient 2, Limited Ammo 1, Stun Damage, Special</td>
-</tr>
-<tr>
-<td style="text-align:left">Firestar</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">100</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Burn 1, Limited Ammo 1</td>
-</tr>
-<tr>
-<td style="text-align:left">Frag Grenade</td>
-<td style="text-align:left">Ranged (Light)</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">3</td>
-<td style="text-align:left">Short</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">90</td>
-<td style="text-align:center">7</td>
-<td style="text-align:left">Blast 6, Limited Ammo 1</td>
-</tr>
-<tr>
-<td style="text-align:left">Satchel Charge</td>
-<td style="text-align:left">Mechanics</td>
-<td style="text-align:center">12</td>
-<td style="text-align:center">2</td>
-<td style="text-align:left">Engaged</td>
-<td style="text-align:center">2</td>
-<td style="text-align:center">0</td>
-<td style="text-align:right">280</td>
-<td style="text-align:center">6</td>
-<td style="text-align:left">Blast 8, Breach 1, Limited Ammo 1, Special</td>
-</tr>
-</tbody>
-</table>
-
+- **Frag Grenade:** Ranged (Light); Damage 7; Crit 3; Range (Short); Blast 7, Limited Ammo 1, Vicious 1; 80(R) credits; Enc 1; HP 0
 
 ## Armour
 
@@ -375,6 +258,12 @@ An encrypted version of the comm-bead is also available. Any attempt to hack int
 #### Cybernetics
 
 See _Genesys_ Core Rulebook page 177.
+
+#### Electric Smoke Grenade
+
+A pilot-portable version of the Titan defense system, this “grenade” is designed to obscure an area and disperse pilots in an entrenched position.
+
+The cloud creates two dice worth of concealment and completely negates the Guided weapon quality on any attack against a target within the cloud or if the weapon must target through the cloud.
 
 #### Extra Magazine
 

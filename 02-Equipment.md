@@ -10,7 +10,7 @@ Arc weapons specialize in taking down energy shields with a massive jolt of arc 
 
 ### Reduced Magazine
 
-Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][th][TH] (in addition to the normal [DE]).
+Weapons with a Reduced Magazine either doesn't hold much ammo or it goes through ammo at an alarming rate. Either way, this weapon can run out of ammo by spending [TH][TH][TH] (in addition to the normal [DE]).
 
 ## Weapons
 
@@ -92,7 +92,7 @@ These rifles take the idea of the sniper rifle and crank it up to 11. Anti-mater
 
 **Models Include:** Kraber Armor Penetrating .50-cal Sniper Rifle
 
-* **Anti-Materiel Rifle:** Ranged (Heavy); Damage 12; Crit 2; Range (Extreme); Cumbersome 3, Pierce 5, Slow-Firing 1; 2,300(R) credits; Enc 5; HP 2
+- **Anti-Materiel Rifle:** Ranged (Heavy); Damage 12; Crit 2; Range (Extreme); Cumbersome 3, Pierce 5, Slow-Firing 1; 2,300(R) credits; Enc 5; HP 2
 
 #### Assault Rifle
 
@@ -124,7 +124,7 @@ Shotguns are short-ranged weapons that fire a cartridge of 'shot': a bunch of ti
 
 **Models Include:** EVA-8, M1901 Mastiff
 
-* **Shotgun:** Ranged (Heavy); Damage 8; Crit 3; Range (Short); Accurate 1, Knockdown, Vicious 2; 1,000 credits; Enc 3; HP 2
+- **Shotgun:** Ranged (Heavy); Damage 8; Crit 3; Range (Short); Accurate 1, Knockdown, Vicious 2; 1,000 credits; Enc 3; HP 2
 
 #### Sniper Rifle
 
@@ -132,7 +132,7 @@ A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at r
 
 **Models Include:** D-101 Longbow Designated Marksman Rifle, D-2 Double Take
 
-* **Sniper Rifle:** Ranged (Heavy); Damage 10; Crit 2; Range (Extreme); Accurate 2, Limited Ammo 3, Pierce 2, Prepare 1; 1,800(R) credits; Enc 4; HP 2
+- **Sniper Rifle:** Ranged (Heavy); Damage 10; Crit 2; Range (Extreme); Accurate 2, Limited Ammo 3, Pierce 2, Prepare 1; 1,800(R) credits; Enc 4; HP 2
 
 #### Submachine Guns
 
@@ -140,7 +140,7 @@ Submachine guns, or SMGs for short, are a compromise between auto-pistols and ca
 
 **Models Include:** Alternator, CAR (Combat Advanced Round Submachine Gun), R-97, R-99, Volt
 
-* **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700(R) credits; Enc 3; HP 2
+- **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700(R) credits; Enc 3; HP 2
 
 ### Fire Support and Anti-Titan Weapons
 
@@ -150,7 +150,7 @@ When the enemy comes at you in giant robots bristling with guns, most people run
 
 The latest in fire-and-forget anti-armor weapons, anti-titan missiles are man-portable weapons that lock onto any large vehicle–not just Titans. It does require some time to acquire the lock, however, so they are best used when behind cover and at range. Note that the Guided quality only applies against vehicular targets. Extra ammo for this weapon costs 3,000(R) credits.
 
-There are also unguided anti-Titan rockets. Due to the dumb-fire nature of these weapons, however, they have been miniaturized and fielded in a rapid-fire weapon. 
+There are also unguided anti-Titan rockets. Due to the dumb-fire nature of these weapons, however, they have been miniaturized and fielded in a rapid-fire weapon.
 
 **Models Include:** Archer Heavy Rocket, Sidewinder AT-SMR
 
@@ -170,7 +170,7 @@ These weapons are large-scale lasers that direct a beam of energy in order to ca
 
 These weapons are designed to fire specially-designed grenade ordinance at longer ranges than one can throw them. Because of the aerodynamics required to be shot at long ranges, you use any grenade, but special rounds designed specifically for this weapon.
 
-There is a special anti-Titan grenade launcher that fires magnetic grenades designed to stick to armored targets to aim a shaped-charge at the vital internal components. These 'mag' launchers are a different weapon than the anit-infantry variants.
+There is a special anti-Titan grenade launcher that fires magnetic grenades designed to stick to armored targets to aim a shaped-charge at the vital internal components. These 'mag' launchers are a different weapon than the anti-infantry variants.
 
 **Models Include:** EPG-1, EM-4 Cold War, R-6P Softball, MGL
 
@@ -237,84 +237,82 @@ Not a form of combat armour, but a well-made jacket does provide limited protect
 
 A Militia Titan pilot needs more than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane—but no less important—items that makes a Militia pilot more than a grunt with a gun.
 
-#### Backpack
+### Backpack
 
 While wearing a backpack, your character increases their encumbrance threshold by four.
 
-#### Combat Harness
+### Combat Harness
 
 A combat harness is a system used by soldiers to carry necessary equipment on their persons in easily accessible pouches. They are commonly made of hard-wearing reinforced textiles, and often with removable armor plates.
 
 A combat harness increases a wearer's encumbrance threshold by 2.
 
-#### Comm-Bead
+### Comm-Bead
 
 This communications device fits into a sentient's ear (or other auditory orifice) and allows them to communicate with friends and allies within 100 kilometers. If the comm-bead can tie into a planetary communications network (the kind that any civilized planet has), then it can communicate with anyone on the same planet.
 
 An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is upgraded twice.
 
-#### Cybernetics
+### Cybernetics
 
 See _Genesys_ Core Rulebook page 177.
 
-#### Electric Smoke Grenade
+### Electric Smoke Grenade
 
 A pilot-portable version of the Titan defense system, this “grenade” is designed to obscure an area and disperse pilots in an entrenched position.
 
 The cloud creates two dice worth of concealment and completely negates the Guided weapon quality on any attack against a target within the cloud or if the weapon must target through the cloud.
 
-#### Extra Magazine
+### Extra Magazine
 
 This is exactly what it sounds like: an extra magazine of ammunition for a ranged weapon.
 
 If your character has an extra magazine, they may spend a maneuver to reload and continue to use their weapon if it runs out of ammo. This uses up the extra magazine. (You can’t use this to reload weapons with the Limited Ammo quality, as they usually have special costs for their reloads or are one-use weapons.)
 
-#### First Aid Kit
+### First Aid Kit
 
-A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][th][TH] or [DE] means your character has used all of the kit's supplies.
+A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][TH][TH] or [DE] means your character has used all of the kit's supplies.
 
-#### Jump Kit
+### Jump Kit
 
 Jump Kits provide a brief burst of thrust that is used to leap to higher locations. They also have a function that adjusts the deceleration on potentially fatal descents to safe levels, allowing Pilots to fall from great heights without injury.
 
 When armed with a jump kit, upgrade all Athletics checks to climb and jump once and ignore difficult terrain as long as you can bypass it via a nearby wall or other outcropping. In addition, reduce the overall distance fallen by one range band.
 
-#### Night Optics
+### Night Optics
 
 These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][s] added to their checks due to darkness.
 
-#### Painkillers
+### Painkillers
 
 See page 94 of the _Genesys_ Core Rulebook.
 
-#### Panacea
+### Panacea
 
 This liquid cocktail of adrenaline and various pharmaceutical drugs is used to temporarily enhance awareness and promote localized healing. The panacea is stored in a one-use syringe that is quickly injected to the subject.
 
-When making a Medicine check, your character may use a panacea to add automatic [SU][ad] to the results. The panacea is consumed when used.
+When making a Medicine check, your character may use a panacea to add automatic [SU][AD] to the results. The panacea is consumed when used.
 
-#### Portable Medkit
+### Portable Medkit
 
 A well-equipped portable medkit comes with everything someone might need to treat all manner of injuries, from bullet wounds to broken legs.
 
 A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic [AD] to the check results.
 
-#### Pulse Blade
+### Pulse Blade
 
 the pulse blade can be thrown and provides a brief sonar pulse that can detect enemies even through walls.
 
-As an action, a character may make an **Average ([D][d]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
+As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
 
 The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
 
-#### Utility Belt
+### Utility Belt
 
 Often worn in addition to a combat harness, or used as a component, utility belts are common items for militia in the field where quick access to important tools is a life-saving necessity. Contents and configurations vary by user and by mission; many include integral holsters or gun belts.
 
 Utility belts increase a wearer's encumbrance threshold
 by 1.
-
-<caption>Gear</caption>
 
 | Item                 | Enc. | Price | Rarity |
 | :------------------- | :--: | ----: | :----: |
@@ -341,8 +339,6 @@ Item attachments follow the rules on pages 206–209 of the _Genesys_ Core Ruleb
 The following weapon attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
-
-<caption>Weapon Attachments</caption>
 
 | Attachment                     | HP Required |  Price | Rarity |
 | :----------------------------- | :---------: | -----: | :----: |
@@ -405,8 +401,6 @@ A silencer makes it harder for others to pinpoint the location of shots made wit
 The following armour attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
-
-<caption>Armour Attachments</caption>
 
 | Attachment              | HP Required | Price | Rarity |
 | :---------------------- | :---------: | ----: | :----: |

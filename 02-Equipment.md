@@ -126,7 +126,7 @@ Shotguns are short-ranged weapons that fire a cartridge of 'shot': a bunch of ti
 
 * **Shotgun:** Ranged (Heavy); Damage 8; Crit 3; Range (Short); Accurate 1, Knockdown, Vicious 2; 1,000 credits; Enc 3; HP 2
 
-### Sniper Rifle
+#### Sniper Rifle
 
 A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at range. The elusive "one shot, one kill" weapon that is the bane of infantry everywhere. While effective at long range, it does take time to line up a shot, which makes it less than ideal in close-in fighting.
 
@@ -134,7 +134,7 @@ A sniper rifle is, in essence, a battle rifle designed for extreme accuracy at r
 
 * **Sniper Rifle:** Ranged (Heavy); Damage 10; Crit 2; Range (Extreme); Accurate 2, Limited Ammo 3, Pierce 2, Prepare 1; 1,800(R) credits; Enc 4; HP 2
 
-### Submachine Guns
+#### Submachine Guns
 
 Submachine guns, or SMGs for short, are a compromise between auto-pistols and carbines. not as accurate as a carbine but a longer range than an autopistol, these weapon still use the smaller pistol-calibre ammo. Even though these weapons are designed to be used two-handed, it is possible to fire it with just one. If your character uses Ranged (Light) instead of Ranged (Heavy) increase the difficulty of the combat check by 1.
 
@@ -142,11 +142,11 @@ Submachine guns, or SMGs for short, are a compromise between auto-pistols and ca
 
 * **SMG:** Ranged (Heavy); Damage 6; Crit 3; Range (Medium); Auto-Fire; 700(R) credits; Enc 3; HP 2
 
-## Fire Support and Anti-Titan Weapons
+### Fire Support and Anti-Titan Weapons
 
 When the enemy comes at you in giant robots bristling with guns, most people run away. The Frontier Militia, however, charges headlong at the Titans with weapons specifically designed to destroy them.
 
-### Anti-Titan Warheads
+#### Anti-Titan Warheads
 
 The latest in fire-and-forget anti-armor weapons, anti-titan missiles are man-portable weapons that lock onto any large vehicle–not just Titans. It does require some time to acquire the lock, however, so they are best used when behind cover and at range. Note that the Guided quality only applies against vehicular targets. Extra ammo for this weapon costs 3,000(R) credits.
 
@@ -158,7 +158,7 @@ There are also unguided anti-Titan rockets. Due to the dumb-fire nature of these
 
 - **Anti-Titan Mini Rocket Launcher:** Gunnery; Damage 18; Crit 2; Range(Medium); Auto-fire, Breach 1, Cumbersome 2, Inaccurate 1, Limited Ammo 3, Vicious 1; 4,275(R); Enc 6; HP 3
 
-### Directed Energy Weapon
+#### Directed Energy Weapon
 
 These weapons are large-scale lasers that direct a beam of energy in order to cause extreme damage to a target. The intensity of the energy beam means that it can punch through even the thickest armor and cause some serious damage to any system unlucky enough to be struck. But the focused nature of the beam means it doesn't cause as grievous of damage as other, less precise weapons.
 
@@ -166,7 +166,7 @@ These weapons are large-scale lasers that direct a beam of energy in order to ca
 
 - **Directed Energy Weapon:** Gunnery; Damage 9; Crit 2; Range (Extreme); Accurate 1, Breach 2, Cumbersome 2, Slow-Firing 1, Vicious 2; 3,425(R) credits; Enc 7; HP 3
 
-### Grenade Launcher
+#### Grenade Launcher
 
 These weapons are designed to fire specially-designed grenade ordinance at longer ranges than one can throw them. Because of the aerodynamics required to be shot at long ranges, you use any grenade, but special rounds designed specifically for this weapon.
 
@@ -178,7 +178,7 @@ There is a special anti-Titan grenade launcher that fires magnetic grenades desi
 
 - **Mag Launcher:** Gunnery; Damage 12; Crit 3; Range (Long); Accurate 2, Breach 2; 3,450(R) credits; Enc 6; HP 2
 
-### Light Machine Gun
+#### Light Machine Gun
 
 Light machine guns are the heaviest man-portable squad automatic weapons. While heavy, these weapons can mow down infantry if used by anyone with even a modicum of skill. Because of their lethality, however, they are favorite targets on the battlefield.
 
@@ -233,9 +233,7 @@ Not a form of combat armour, but a well-made jacket does provide limited protect
 | Flak&nbsp;Vest         |    0    |  +2  |  3   |  2  |   500 |   5    |
 | Heavy&nbsp;Jacket      |    0    |  +1  |  1   |  0  |    35 |   1    |
 
-## Items
-
-### Gear
+## Gear
 
 A Militia Titan pilot needs more than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane—but no less important—items that makes a Militia pilot more than a grunt with a gun.
 

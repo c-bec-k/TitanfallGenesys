@@ -314,11 +314,11 @@ The pulse blade can also be used as a weapon with the following profile: Ranged 
 
 ## Attachments
 
-Item attachments follow the rules on pages 206–209 of the _Genesys_ Core Rulebook. Many of the attachments in that section are available in _Titanfall: Genesys_ as well as new attachments described below.
+Item attachments follow the rules on pages 206–209 of the Genesys Core Rulebook. Many of the attachments in that section are available in Titanfall: Genesys as well as new attachments described below.
 
 ### Weapon Attachments
 
-The following weapon attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
+The following weapon attachments are available to characters in the Titanfall: Genesys setting. In addition, several attachments from the Genesys Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
 

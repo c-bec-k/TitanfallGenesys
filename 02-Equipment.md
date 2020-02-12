@@ -242,11 +242,19 @@ A catch-all term for any armor that is not military-grade, such as armored vests
 
 ## Gear
 
-A Militia Titan pilot needs more than just a good weapon and heavy armour to defeat the IMC and drive them from their home. In this section you'll find the more mundane—but no less important—items that makes a Militia pilot more than a grunt with a gun.
+While it's nice to think that all you need to take on the IMC is a gun and some armor, Militia members have a plethora of other items at their disposal. These items not only make it easier to fight the IMC but to make their day-to-day lives just that little bit less miserable.
 
-### Backpack
+### Genesys Gear for the Titanfall Setting
 
-While wearing a backpack, your character increases their encumbrance threshold by four.
+In addition to the new gear listed below, the following gear from the Genesys Core Rulebook is also available.
+
+- Backpack, page 94
+- Painkiller, page 94
+- Rope, page 94
+- First aid kit, page 162
+- Extra clip, page 168
+- Portable medkit, page 169
+- Cybernetics, page 177
 
 ### Combat Harness
 
@@ -260,25 +268,13 @@ This communications device fits into a sentient's ear (or other auditory orifice
 
 An encrypted version of the comm-bead is also available. Any attempt to hack into the encrypted communication is upgraded twice.
 
-### Cybernetics
-
-See _Genesys_ Core Rulebook page 177.
-
 ### Electric Smoke Grenade
 
 A pilot-portable version of the Titan defense system, this “grenade” is designed to obscure an area and disperse pilots in an entrenched position.
 
-The cloud creates two dice worth of concealment and completely negates the Guided weapon quality on any attack against a target within the cloud or if the weapon must target through the cloud.
+As a maneuver, a character may throw an electric smoke grenade at any location within short range. The grenade then disperses a cloud of electrically charged smoke large enough to conceal a single character and other characters engaged with the target. The smoke provides two dice worth of concealment (see page 110 of the Genesys Core Rulebook).
 
-### Extra Magazine
-
-This is exactly what it sounds like: an extra magazine of ammunition for a ranged weapon.
-
-If your character has an extra magazine, they may spend a maneuver to reload and continue to use their weapon if it runs out of ammo. This uses up the extra magazine. (You can’t use this to reload weapons with the Limited Ammo quality, as they usually have special costs for their reloads or are one-use weapons.)
-
-### First Aid Kit
-
-A first aid kit has all the basics you need to tend to minor battlefield injuries. This kit provides your character with the equipment needed to make Medicine checks to heal wounds or Critical Injuries without penalty. However, [TH][TH][TH] or [DE] means your character has used all of the kit's supplies.
+In addition, any character caught in the smoke must make a **Hard([D][D][D]) Resilience check** or suffer 4 strain plus 1 strain per [TH][TH]. A [DE] can be spent to have the character also suffer half that many wounds.
 
 ### Jump Kit
 
@@ -288,11 +284,7 @@ When armed with a jump kit, upgrade all Athletics checks to climb and jump once 
 
 ### Night Optics
 
-These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][s] added to their checks due to darkness.
-
-### Painkillers
-
-See page 94 of the _Genesys_ Core Rulebook.
+These goggles allows the wearer to see in the dark. When wearing night optics, your character removes up to [S][S] added to their checks due to darkness.
 
 ### Panacea
 
@@ -300,44 +292,35 @@ This liquid cocktail of adrenaline and various pharmaceutical drugs is used to t
 
 When making a Medicine check, your character may use a panacea to add automatic [SU][AD] to the results. The panacea is consumed when used.
 
-### Portable Medkit
-
-A well-equipped portable medkit comes with everything someone might need to treat all manner of injuries, from bullet wounds to broken legs.
-
-A portable medkit allows your character to perform Medicine checks to heal wounds and Critical Injuries without penalty. The inclusion of modern drugs adds automatic [AD] to the check results.
-
 ### Pulse Blade
 
-the pulse blade can be thrown and provides a brief sonar pulse that can detect enemies even through walls.
+A pulse blade can be thrown and provides a brief sonar pulse that can detect enemies even through walls.
 
-As an action, a character may make an **Average ([D][D]) Ranged (Light) check** to secure the blade to any solid surface within short range, including the hull of a Titan. On a success it sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
+As a maneuver, a character may make throw a pulse blade onto any solid surface within short range, including the hull of a Titan. It then sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
 
-The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
-
-### Utility Belt
-
-Often worn in addition to a combat harness, or used as a component, utility belts are common items for militia in the field where quick access to important tools is a life-saving necessity. Contents and configurations vary by user and by mission; many include integral holsters or gun belts.
-
-Utility belts increase a wearer's encumbrance threshold
-by 1.
+The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 2; Range (Short); Limited Ammo 1, Pierce 1.
 
 | Item                 | Enc. | Price | Rarity |
 | :------------------- | :--: | ----: | :----: |
-| Backpack             |  +4  |    50 |   3    |
 | Combat Harness       |  +2  |   100 |   3    |
 | Comm-Bead            |  0   |    25 |   1    |
 | Comm-Bead, encrypted |  0   | 2,000 |   5    |
-| Extra Magazine       |  0   |    25 |   2    |
-| First Aid Kit        |  1   |   100 |   3    |
 | Jump Kit             |  2   | 1,000 |   7    |
-| Night Optics         |  0   |   500 |   5    |
-| Painkillers          |  0   |    25 |   2    |
+| Night Optics         |  0   |   650 |   5    |
 | Panacea              |  0   |    50 |   6    |
-| Portable Medkit      |  2   |   200 |   4    |
 | Pulse Blade          |  1   |   150 |   5    |
-| Utility Belt         |  +1  |    25 |   0    |
 
-## Item Attachments
+
+
+
+
+
+
+
+
+**HAVEN'T UPDATED PAST THIS POINT**
+
+## Attachments
 
 Item attachments follow the rules on pages 206–209 of the _Genesys_ Core Rulebook. Many of the attachments in that section are available in _Titanfall: Genesys_ as well as new attachments described below.
 

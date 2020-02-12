@@ -210,28 +210,35 @@ These grenades are a small explosive core surrounding a fragile shell of ceramic
 
 ## Armour
 
-### Armoured Carapace
+When someone says the word "armor" most people think of the tactical vests and helmets of a heavily armed police force or the fully enclosed carapace armor of a Titan pilot with a jump pack the truth is less romantic.
 
-Armoured carapace completely covers the wearer from head to toe and with the right attachments can be environmentally sealed. The carapace has a rigid outer shell that deflects or blocks incoming attacks. It is also designed to be extremely customizable, with one more hard point than a comparable size armour would otherwise have.
+Most Frontier Militia get by with heavy coats, reinforced clothing or re-purposed police surplus.
+
+### Armored Carapace
+
+Armored carapace completely covers the wearer from head to toe and with the right attachments can be environmentally sealed. The carapace has a rigid outer shell that deflects or blocks incoming attacks. It is also designed to be extremely customizable, with one more hard point than a comparable size armour would otherwise have.
+
+- **Armored carapace:** Defense 1; Soak +2; Enc 4; HP 3; 850(R) credits
 
 ### Cloaking Device
 
 Personal cloaking devices blur the outline of the wearer, making it extremely hard to see them. While active, you may hide even when in plain sight.
 
-### Flak Vest
+Someone trying to spot your character upgrades the difficulty of their check once if your character is wearing a cloaking device.
 
-Made from lightweight polymers and ballistic fabrics, this armour provides decent protection against small arms fire and shrapnel.
+- **Cloaking Device:** Defense 2; Soak +0; Enc 2; HP 1; 580(R) credits
 
-### Heavy Jacket
+### Heavy Clothing
 
-Not a form of combat armour, but a well-made jacket does provide limited protection.
+This type of armor is not armor at all, but rather well-made clothes that provide the most basic protection against scrapes, bumps, and bruises. It includes things like biker leathers, military jumpsuits, and heavy-duty overalls.
 
-| Type                   | Defense | Soak | Enc. | HP  | Price | Rarity |
-| :--------------------- | :-----: | :--: | :--: | :-: | ----: | :----: |
-| Armoured&nbsp;Carapace |    1    |  +2  |  4   |  3  |   850 |   6    |
-| Cloaking&nbsp;Device   |    2    |  +0  |  2   |  1  |   600 |   7    |
-| Flak&nbsp;Vest         |    0    |  +2  |  3   |  2  |   500 |   5    |
-| Heavy&nbsp;Jacket      |    0    |  +1  |  1   |  0  |    35 |   1    |
+- **Heavy Clothing:** Defense 0; Soak +1; Enc 1; HP 0; 50 currency
+
+### Light Body Armor
+
+A catch-all term for any armor that is not military-grade, such as armored vests and flak jackets. It provides a modicum of protection against most threats one would find on a battlefield.
+
+- **Light Body Armor:** Defense 0; Soak +2; Enc 2; HP 1; 500 credits
 
 ## Gear
 

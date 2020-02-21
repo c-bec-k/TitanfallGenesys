@@ -302,16 +302,6 @@ The pulse blade can also be used as a weapon with the following profile: Ranged 
 | Panacea              |  0   |    50 |   6    |
 | Pulse Blade          |  1   |   150 |   5    |
 
-
-
-
-
-
-
-
-
-**HAVEN'T UPDATED PAST THIS POINT**
-
 ## Attachments
 
 Item attachments follow the rules on pages 206–209 of the Genesys Core Rulebook. Many of the attachments in that section are available in Titanfall: Genesys as well as new attachments described below.

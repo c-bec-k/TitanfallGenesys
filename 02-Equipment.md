@@ -290,7 +290,7 @@ A pulse blade can be thrown and provides a brief sonar pulse that can detect ene
 
 As a maneuver, a character may make throw a pulse blade onto any solid surface within short range, including the hull of a Titan. It then sends out a sonar pulse that reveals the current location of all enemies within short range. At the beginning of the next round another sonar pulse is released.
 
-The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 2; Range (Short); Limited Ammo 1, Pierce 1.
+The pulse blade can also be used as a weapon with the following profile: Ranged (Light); damage +1; crit 4; Range (Short); Limited Ammo 1, Pierce 1.
 
 | Item                 | Enc. | Price | Rarity |
 | :------------------- | :--: | ----: | :----: |

@@ -8,13 +8,17 @@ There are three classes of titans, as described below.
 
 All titans have the following special rule:
 
-### Titans and Limited Ammo
+### Difficult Control Scheme
 
-Titans regularly have ordnance weapons on-board that has the Limited Ammo quality.  Although normally Limited Ammo weapons can be reloaded with a maneuver once exhausted, Titans generally carry only one payload of ordnance, and must be reloaded back at a base or carrier starship. They cannot be reloaded in mid-combat!
+Titans are unique vehicles and take training to use efficiently. Because of this, all characters upgrade the difficulty of any Driving check made to operate a Titan.
 
 ### Humanoid Form
 
 As long as a Titan's propulsion isn't compromised it ignores the speed requirement for the Reposition maneuver.
+
+### Titans and Limited Ammo
+
+Titans regularly have ordnance weapons on-board that has the Limited Ammo quality.  Although normally Limited Ammo weapons can be reloaded with a maneuver once exhausted, Titans generally carry only one payload of ordnance, and must be reloaded back at a base or carrier starship. They cannot be reloaded in mid-combat!
 
 ## Atlas-Class Titan
 
@@ -30,15 +34,15 @@ The Atlas is the oldest Titan model on the Frontier and has instigated the devel
 - **Defense:** 2
 - **Armor:** 2
 - **HTT:** 15
-- **SST:** 15
+- **SST:** 13
 
-- **Control Skill:** Pilot (Titan)
+- **Control Skill:** Driving
 - **Compliment:** One pilot
 - **Passenger Capacity:** None
-- **Price/Rarity:**
-- **Consumables:**
-- **Encumbrance Capacity:**
-- **Weapons:** Titan punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged])
+- **Price/Rarity:** 11,376(R) / 8
+- **Consumables:** 3 days
+- **Encumbrance Capacity:** 10
+- **Weapons:** Titan punch (Melee; Damage 2; Critical 3; Range [Engaged])
 - **Damage Core:** The Atlas-class Titan has an in-built damage core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Aim maneuver as an Incidental.
 
 ## Ogre-Class Titan
@@ -47,19 +51,19 @@ The H-KA02/a Ogre Heavy Titan is a Titan model produced by Hammond Armament Divi
 
 - **Silhouette:** 3
 - **Speed:** 2
-- **Handling:** -2
+- **Handling:** -1
 - **Defense:** 2
 - **Armor:** 2
 - **HTT:** 18
-- **SST:** 18
+- **SST:** 15
 
-- **Control Skill:** Pilot (Titan)
+- **Control Skill:** Driving
 - **Compliment:** One pilot
 - **Passenger Capacity:** None
-- **Price/Rarity:**
-- **Consumables:**
-- **Encumbrance Capacity:**
-- **Weapons:** Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Vicious 1)
+- **Price/Rarity:** 11,326(R)/8
+- **Consumables:** 3 days
+- **Encumbrance Capacity:** 10
+- **Weapons:** Titan Punch (Brawl; Damage 2; Critical 3; Range [Engaged]; Vicious 1)
 - **Shield Core:** The Ogre-class Titan has an in-built shield core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Brace for Impact maneuver as an Incidental.
 
 ## Stryder-Class Titan
@@ -73,13 +77,13 @@ The Stryder is a Titan chassis developed and manufactured by Hammond Robotics. D
 - **Armor:** 1
 - **HTT:** 13
 - **SST:** 18
-- **Control Skill:** Pilot (Titan)
+- **Control Skill:** Driving
 - **Compliment:** One pilot
 - **Passenger Capacity:** None
-- **Price/Rarity:**
-- **Consumables:**
-- **Encumbrance Capacity:**
-- **Weapons:** Titan Punch (Pilot [Titan]; Damage 2; Critical 3; Range [Engaged]; Accurate 1)
+- **Price/Rarity:** 11,406(R)/8
+- **Consumables:** 3 days
+- **Encumbrance Capacity:** 10
+- **Weapons:** Titan Punch (Brawl; Damage 2; Critical 3; Range [Engaged]; Accurate 1)
 - **Dash Core:** The Stryder-class Titan has an in-built dash core. Once per round on your turn, you may cause the titan to suffer 1 system strain to perform the Evade maneuver as an Incidental, ignoring the Speed requirement.
 
 ## Titan Systems

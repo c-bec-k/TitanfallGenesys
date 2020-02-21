@@ -328,65 +328,17 @@ Italicized attachments are new and found in the following section.
 | Under-barrel Weapon            |      2      | Varies | Varies |
 | Weapon sling                   |      1      |    250 |   1    |
 
-### Dataspike
+#### Dataspike
 
-The Dataspike is a tool used to hack into enemy Spectres, turrets or other computing devices. It has an on-board AI programmed specifically to hack into enemy computers.
+#### Enhanced Targeting Algorithm
 
-**Use With:** The dataspike is specifically designed to be used with the combat knife.
+#### Holosight
 
-**Modifiers:** Dataspikes can perform Computers checks for a player with a Computers skill of 2 and an Intellect of 0. If unassisted it rolls [A][A] for Computers checks.
+#### Laser Sight
 
-**Hard Points Required:** 1
-**Price:** 500
+#### Silencer
 
-### Enhanced Targeting Algorithm
-
-While most guided weaponry is good as-is, many users tweak the targeting code to acquire a lock faster.
-
-**Use With:** Any weapon with the Guided quality may have this attachment.
-
-**Modifiers:** When you preform the aim maneuver you may add [AD] instead of [B] to your combat check.
-
-**Hard Points Required:** 1
-**Price:** 800
-
-### Holosight
-
-This device projects a hologram of a crosshair a meter or so in front of the barrel to aid in aiming the weapon. Unfortunately that also makes it easier to spot the shooter.
-
-**Use With:** Any firearm can have a holosight added.
-
-**Modifiers:** The shooter may aim as an incidental once per round at a target up to medium range. If the holosight is used, reduce any concealment dice the target is benefiting from by 1 until the beginning of the character's next turn.
-
-**Hard Points Required:** 1
-
-**Price:** 500
-
-### Laser Sight
-
-A simple and lower-tech solution than most on the Frontier are used to, it is a classic for a reason. A laser sight emits a low-level light beam that places a physical dot where the weapon is pointing. But due to the low output it has limited range.
-
-**Use With:** Any firearm can have a laser sight attached.
-
-**Modifiers:** A laser sight adds the Accurate 1 quality, or increases an existing Accurate quality by 1.
-
-**Hard Points Required:** 1
-
-**Price:** 500
-
-### Silencer
-
-A silencer makes it harder for others to pinpoint the location of shots made with the weapon it is attached to.
-
-**Use With:** Any firearm can have a silencer attached.
-
-**Modifiers:** Adds [S][S] to any Perception or Vigilance checks to locate the shooter firing the weapon.
-
-**Hard Points Required:** 1
-
-**Price:** 100
-
-## Armour Attachments
+### Armour Attachments
 
 The following armour attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
 
@@ -403,46 +355,10 @@ Italicized attachments are new and found in the following section.
 | _Stim Injectors_        |      1      | 2,500 |   5    |
 | Vacuum Sealed           |      1      |   600 |   4    |
 
-### Extra Emitters
+#### Extra Emitters
 
-Outfitting a cloaking device with extra emitters makes the cloak even more believable and provides even more protection to the soldier wearing it.
+#### Extra Padding
 
-**Use With:** This attachment can be applied to the cloaking device.
+#### Grapple Launcher
 
-**Modifiers:** Increase the cloaking device's Defense to 3.
-
-**Hard Points Required:** 1
-
-**Price:** 2,000
-
-### Extra Padding
-
-This attachment adds a layer of padding to the cloaking device to help absorb the impact of weapons that are not fooled by the illusion. Use With: This attachment can be applied to the cloaking device.
-
-**Modifiers:** Increase the cloaking device's soak and encumbrance by +1.
-
-**Hard Points Required:** 1
-
-**Price:** 300
-
-### Grapple Launcher
-
-The grapple launcher has a weighted head designed to pierce and hold firm to any solid surface. It allows the wearer to traverse longer distances than normal—even straight up! Whether you're trying to get away, close the distance or get in or out of a secure site in a hurry, the grapple launcher is just what you need. Some crazy pilots even use it to rodeo a Titan.
-
-**Use With:** This attachment can be applied to any armor.
-
-**Modifiers:** As an action, a character may make an **Easy ([D]) Ranged (Light) check** to secure the grapple launcher on any solid object within short range. On a success, they may, as a maneuver, reel in the cord and pull themselves towards the the object. If the object is unsecured, it instead is pulled to the character.
-
-**Hard Points Required:** 2
-
-**Price:** 350
-
-### Stim Injectors
-
-Stim injectors, or simply 'stims' to those who use them, are used for brief bursts of speed on the battlefield. On command they inject a potent cocktail of adrenaline and various pharmaceuticals that increase speed and reaction time. While it enables characters to get where they're going faster, it does stress the user's system. Use With: This attachment can be applied to any armor.
-
-**Modifiers:** Once per round on your turn after you have performed two maneuvers you may suffer 1 strain to perform the move maneuver as an incidental. At the end of any encounter where your character used the stim injectors, they suffer 3 additional strain.
-
-**Hard Points Required:** 1
-
-**Price:** 2,500
+#### Stim Injectors

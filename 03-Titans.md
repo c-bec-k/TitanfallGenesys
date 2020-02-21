@@ -146,7 +146,7 @@ The Multi-Target Missile System enables you to engage multiple targets at once. 
 
 #### Rocket Salvo
 
-The Rocket Salvo launches a rapid salvo of unguided rockets. Each [SU] deals +2 damage, instead of +1.
+The Rocket Salvo launches a rapid salvo of unguided rockets.
 
 #### Slaved Warheads
 
@@ -158,18 +158,6 @@ Titans are not indestructible, regardless of what the IMC wants you to believe. 
 
 #### Electric Smoke
 
-Electric smoke is a reactionary device used to avoid attacks and negate tracking weapons.
-
-Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the *Genesys* Core Rulebook). Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won't (or can't) disembark, they must make a **Hard (<[D[D[D]]]) Resilience check** or suffer 1 wound, plus 1 additional wound per [FA]. If the Resilience check generates [TH][TH][TH], they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
-
-Electric smoke comes equipped with 3 smoke canisters.
-
 #### Particle Wall
 
-The particle wall creates a concave force field which blocks all projectiles from one side and lets all projectiles through from the other. As an incidental you may deploy the particle wall in front of your Titan. It grants Ranged Defense 4 to everything behind the wall. It lasts until the end of your next turn, and it requires two rounds to recharge before it can be used again.
-
 #### Vortex Shield
-
-The Vortex Shield allows Titans to stop enemy fire such as rockets and bullets in their tracks and is able to send the projectiles right back to the enemy.
-
-As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates [TH][TH][TH], you may reflect the projectile (if any) back on the target, dealing the weapon's base damage to the attacker. If the check generates [DE], you instead deal a Critical Injury (or a Critical Hit for vehicles).

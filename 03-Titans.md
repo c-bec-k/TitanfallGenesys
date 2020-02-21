@@ -98,25 +98,37 @@ Titan weapons are designed to be held in an external rig so if a Titan needs bot
 
 The factory issue 40mm Cannon is a semi-automatic weapon that fires a high-explosive round with good accuracy.
 
+- **40mm Cannon:** Gunnery; Damage 3; Crit 3; Range (Long); Breach 1, Vicious 1; 6,500(R) credits
+
 #### Arc Cannon
 
-The factory issue Arc Cannon fires a bolt of lightning that propagates across multiple targets. It can be fired quickly, or charged up over time for an increase in firepower. If you perform the Prepare maneuver, increase the damage of one hit of the next combat check by 1.
+The Arc Cannon fires a bolt of lightning that propagates across multiple targets. It does take a little bit of time for the capacitor to fully charge, however.
+
+- **Arc Cannon:** Gunnery; Damage 2; Crit 4; Range (Medium); Accurate 1, Arc, Blast 2, Disorient 2, Prepare 1; 4,250(R) credits
 
 #### PR-01 Plasma Railgun
 
 The Plasma Railgun is a Titan-sized sniper weapon, used for suppression of armored targets from a distance. The weapon fires a bolt of plasma, accelerated by a system of charged rails.
 
+- **Plasma Railgun:** Gunnery; Damage 4; Crit 2; Range (Extreme); Accurate 2, Breach 2, Slow-Firing 1; 13,250(R) credits
+
 #### Quad Rocket
 
 The Quad Rocket is a weapon that fires a tight-knit cluster of 4 rockets at the target, exploding upon impact.
+
+- **Quad Rocket:** Gunnery; Damage 2; Crit 3; Range (Long); Blast 1, Breach 1; 5,500(R) credits
 
 #### Triple Threat
 
 The Triple Threat is a grenade launcher that shoots 3 grenades at once. It excels at clearing rooms, and its grenades explode on armored contact, making it effective at close range against other Titans.
 
+- **Triple Threat:** Gunnery; Damage 2; Crit 4; Range (Medium) Blast 2; 1,500(R) credits
+
 #### XOTBR-16 Chaingun
 
 The XO-16 Chaingun is a fully automatic ballistic weapon that fires 1.6 inch slugs with high precision at considerable range.
+
+- **XOTBR-16 Chaingun:** Gunnery; Damage 2; Crit 3; Range (Extreme); Auto-Fire; 10,000(R) credits
 
 ### Titan Ordnance
 
@@ -126,7 +138,7 @@ The Cluster Missile pod fires a missile which, on impact, deploys a shower of se
 
 #### Laser Shot
 
-The laser shot fires a lethal beam that cuts through anything in its way. It’s a directed energy weapon that takes the charge rifle and and amps it up to Titan-scale.
+The laser shot fires a lethal beam that cuts through anything in its way. It's a directed energy weapon that takes the charge rifle and and amps it up to Titan-scale.
 
 #### Multi-Target Missile System
 
@@ -148,7 +160,7 @@ Titans are not indestructible, regardless of what the IMC wants you to believe. 
 
 Electric smoke is a reactionary device used to avoid attacks and negate tracking weapons.
 
-Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the *Genesys* Core Rulebook). Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won’t (or can’t) disembark, they must make a **Hard (<[D[D[D]]]) Resilience check** or suffer 1 wound, plus 1 additional wound per [FA]. If the Resilience check generates [TH][TH][TH], they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
+Once per round, as an out-of-turn incidental, you may deploy a smoke charge. If this was done as a reaction to being targeted by a Guided weapon, the tracking is lost and the weapon may not fire on your Titan this turn. It creates an area of obscurant around your Titan that grants concealment worth +3 dice (see page 110 of the *Genesys* Core Rulebook). Any pilot on your Titan must immediately move away from your Titan or risk taking damage from the electric smoke. If they won't (or can't) disembark, they must make a **Hard (<[D[D[D]]]) Resilience check** or suffer 1 wound, plus 1 additional wound per [FA]. If the Resilience check generates [TH][TH][TH], they become Disoriented for two rounds. This cloud lasts until the end of your next turn. Any pilot that ends their turn in the smoke must make the Resilience check or suffer wound as described above.
 
 Electric smoke comes equipped with 3 smoke canisters.
 
@@ -160,4 +172,4 @@ The particle wall creates a concave force field which blocks all projectiles fro
 
 The Vortex Shield allows Titans to stop enemy fire such as rockets and bullets in their tracks and is able to send the projectiles right back to the enemy.
 
-As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates [TH][TH][TH], you may reflect the projectile (if any) back on the target, dealing the weapon’s base damage to the attacker. If the check generates [DE], you instead deal a Critical Injury (or a Critical Hit for vehicles).
+As an out-of-turn incidental you may deploy the vortex shield when targeted by a ranged combat check. It provides the Reflective 1 quality until the beginning of your next turn. If the triggering attack generates [TH][TH][TH], you may reflect the projectile (if any) back on the target, dealing the weapon's base damage to the attacker. If the check generates [DE], you instead deal a Critical Injury (or a Critical Hit for vehicles).

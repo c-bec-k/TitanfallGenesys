@@ -1,12 +1,22 @@
 # Equipment
 
+All wars are fought with weapons. It just so happens that the weapons used on the Frontier are some of the most deadly mankind has ever seen. While it makes it easier to kill your enemies, they also make it easier for *them* to kill *you*.
+
+Because of this, it is always wise to pick your battles carefully. You should only engage the enemy when you don't have other options available to you. Otherwise, it very well could be your last battle.
+
+## A Note On Limited Ammo
+
+Weapons with the Limited Ammo quality require specialized ammunition beyond just the generic extra clip. Because of this, reloads for these weapons cost 20% of the base price of the weapon.
+
+Grenades and other one-time-use weapons don't have reloads, and thus ignore this reload cost.
+
 ## New Qualities
 
-The following qualities are available to certain weapons in _Titanfall: Genesys_
+The following qualities are available to certain weapons in Titanfall: Genesys
 
 ### Arc
 
-Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending [AD][ad] (instead of the usual [AD][ad][AD]).
+Arc weapons specialize in taking down energy shields with a massive jolt of arc energy. An arc weapon can negate Defense granted by energy shields by spending [AD][AD] (instead of the usual [AD][AD][AD]).
 
 ### Reduced Magazine
 
@@ -78,11 +88,11 @@ The ubiquitous pistol has seen very little change in the centuries since its int
 
 #### Smart Pistol
 
-Smart pistols are a fairly new addition to the battlefield. Using state-of-the-art guidance systems, it fires specialized ammo that has limited tracking capability. Not a fire-and-forget weapon like guided missiles but also not as complex or expensive. When your character performs the aim maneuver, instead of adding [B] you instead add [SU] to the results of the combat check. Each extra magazine for a smart pistol costs 100 credits.
+Smart pistols are a fairly new addition to the battlefield. Using state-of-the-art guidance systems, it fires specialized ammo that has limited tracking capability. Not a fire-and-forget weapon like guided missiles but also not as complex or expensive. When your character performs the aim maneuver, instead of adding [B] you add [SU] to the results of the combat check.
 
 **Models Include:** Smart Pistol mk5, Smart Pistol mk6
 
-- **Smart Pistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Reduced Magazine; 500(R) credits; Enc 1; HP 1
+- **Smart Pistol:** Ranged (Light); Damage 5; Crit 3; Range (Medium); Limited Ammo 4; 400(R) credits; Enc 1; HP 1
 
 ### Long-arms
 
@@ -148,7 +158,7 @@ When the enemy comes at you in giant robots bristling with guns, most people run
 
 #### Anti-Titan Warheads
 
-The latest in fire-and-forget anti-armor weapons, anti-titan missiles are man-portable weapons that lock onto any large vehicle–not just Titans. It does require some time to acquire the lock, however, so they are best used when behind cover and at range. Note that the Guided quality only applies against vehicular targets. Extra ammo for this weapon costs 3,000(R) credits.
+The latest in fire-and-forget anti-armor weapons, anti-titan missiles are man-portable weapons that lock onto any large vehicle—not just Titans. It does require some time to acquire the lock, however, so they are best used when behind cover and at range. Note that the Guided quality only applies against vehicular targets. Extra ammo for this weapon costs 3,000(R) credits.
 
 There are also unguided anti-Titan rockets. Due to the dumb-fire nature of these weapons, however, they have been miniaturized and fielded in a rapid-fire weapon.
 
@@ -168,7 +178,7 @@ These weapons are large-scale lasers that direct a beam of energy in order to ca
 
 #### Grenade Launcher
 
-These weapons are designed to fire specially-designed grenade ordinance at longer ranges than one can throw them. Because of the aerodynamics required to be shot at long ranges, you use any grenade, but special rounds designed specifically for this weapon.
+These weapons fire specially-designed grenade ordinance at longer ranges than one can throw them. Because of the aerodynamics required to be shot at long ranges, you can't use any grenade, but special rounds designed specifically for this weapon.
 
 There is a special anti-Titan grenade launcher that fires magnetic grenades designed to stick to armored targets to aim a shaped-charge at the vital internal components. These 'mag' launchers are a different weapon than the anti-infantry variants.
 
@@ -232,13 +242,21 @@ Someone trying to spot your character upgrades the difficulty of their check onc
 
 This type of armor is not armor at all, but rather well-made clothes that provide the most basic protection against scrapes, bumps, and bruises. It includes things like biker leathers, military jumpsuits, and heavy-duty overalls.
 
-- **Heavy Clothing:** Defense 0; Soak +1; Enc 1; HP 0; 50 currency
+- **Heavy Clothing:** Defense 0; Soak +1; Enc 1; HP 0; 50 credits
 
 ### Light Body Armor
 
 A catch-all term for any armor that is not military-grade, such as armored vests and flak jackets. It provides a modicum of protection against most threats one would find on a battlefield.
 
 - **Light Body Armor:** Defense 0; Soak +2; Enc 2; HP 1; 500 credits
+
+### Concealed Armor
+
+Some people are paranoid enough to want the protection of armor without that protection being obvious. Usually warn by big wigs and those who have made a lot of enemies, the unobtrusive nature of concealed armor has made it more and more popular with the Frontier Militia.
+
+Anyone searching your character adds [S][S] to any Perception checks they make to notice that your character is indeed wearing armor.
+
+- **Concealed Armor:** Defense 1; Soak +1; Enc 2; HP 1; 375 credits
 
 ## Gear
 
@@ -320,7 +338,7 @@ Italicized attachments are new and found in the following section.
 | Extended barrel                |      2      |  1,000 |   4    |
 | Hair Trigger                   |      1      |    150 |   3    |
 | _Holosight_                    |      1      |    500 |   4    |
-| _Laser Sight_                  |      1      |    500 |   5    |
+| _Laser Sight_                  |      1      |    400 |   5    |
 | _Silencer_                     |      1      |    100 |   5    |
 | Superior Customization         |      1      |    750 |   7    |
 | Telescopic Sight               |      1      |    200 |   3    |
@@ -330,17 +348,42 @@ Italicized attachments are new and found in the following section.
 
 #### Dataspike
 
+Most of the time when someone needs to hack into a computer system they bring their own rig with specialized programs to do so. Some of the more independent, however, prefer to have a back-up in case they need to hack something in a hurry. \
+**Used With:** This attachment can only be used with a combat knife. \
+**Modifiers:** When attempting to hack into a system, a dataspike grants a [B] to the Computers check. \
+**Hard Points Required:** 1.
+
 #### Enhanced Targeting Algorithm
+
+This attachment is an upgrade to the targeting software of guided munitions. \
+**Used With:** Any weapon with the Guided quality. \
+**Modifiers:** When your character performs the Aim maneuver, instead of adding a [B] you may instead add [AD] to their next combat check. \
+**Hard Points Required:** 1.
 
 #### Holosight
 
+This simple smart system displays a small targeting reticle just above the weapon. This feature increases a shooter’s accuracy, although it cannot be combined with any other sighting system and is only moderately useful at longer ranges. \
+**Used With:** This attachment can be applied to any ranged weapon. \
+**Modifiers:** The weapon gains the Accurate 1 item quality or increases its existing Accurate rating by 1. If the weapon has the Inaccurate item quality, it reduces that quality’s rating by 1, to a minimum of 0, instead. This bonus cannot be combined with any other bonus from a different scope or sight. \
+**Hard Points Required:** 1.
+
 #### Laser Sight
+
+A simple, low-yield laser that helps point out where the weapon is aimed. Many use a simple red or green laser that is visible without artificial aid, but most use a color that is not part of the visible spectrum and only visible with the correct optics software. \
+**Used With:** This attachment can be applied to any weapon. \
+**Modifiers:** The weapon gains the Accurate 1 item quality or increases its existing Accurate rating by 1. If the weapon has the Inaccurate item quality, it reduces that quality’s rating by 1, to a minimum of 0, instead. This benefit does not apply to targets beyond medium range. \
+**Hard Points Required:** 1.
 
 #### Silencer
 
+Silencers are designed to muffle the sound made by bullets as they leave the barrel of a gun. This makes it more difficult to hear or locate the shooter. \
+**Used With:** This attachment can be applied to any firearm that uses bullets. \
+**Modifiers:** When another character makes a Perception or Vigilance check to locate your character due to the sound of the weapon, add [S][S]. The GM can spend [TH][TH][TH] or [DE] on Combat checks using the weapon to render the silencer unusable. \
+**Hard Points Required:** 1.
+
 ### Armour Attachments
 
-The following armour attachments are available to characters in the _Titanfall: Genesys_ setting. In addition, several attachments from the _Genesys_ Core Rulebook are available.
+The following armour attachments are available to characters in the Titanfall: Genesys setting. In addition, several attachments from the Genesys Core Rulebook are available.
 
 Italicized attachments are new and found in the following section.
 
